@@ -1,16 +1,12 @@
-### Hi there 👋
+💻 Hi! I'm Joe Ingeno and I love building software. I'm the author of the [Software Architect's Handbook](https://www.amazon.com/Software-Architects-Handbook-implementing-architecture/dp/1788624068) and you can check out my [blog](https://ingeno.io/). Here are some of the languages/tools/frameworks that I use the most:
 
-<!--
-**jingeno/jingeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/static/v1?label=&message=C%23%0A&color=239120&logo=c-sharp&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=.NET&color=5C2D91&logo=.net&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)]()  
+[![](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=XAML&color=0C54C2&logo=xaml&logoColor=FFFFFF)]()  
+[![](https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visual-studio&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=visual-studio-code&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Postman&color=FF6C37&logo=postman&logoColor=FFFFFF)]()  
+[![](https://img.shields.io/static/v1?label=&message=Microsoft%20SQL%20Server&color=CC2927&logo=microsoft-sql-server&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Oracle&color=F80000&logo=oracle&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF)]()  
+[![](https://img.shields.io/static/v1?label=&message=Microsoft%20Azure&color=0089D6&logo=microsoft-azure&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=NuGet&color=004880&logo=nuget&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=JSON&color=000000&logo=json&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF)]()  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<a href="https://twitter.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/joeingeno"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
