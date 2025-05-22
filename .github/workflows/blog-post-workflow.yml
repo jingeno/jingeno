@@ -18,4 +18,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
-          template: "$nbsp[$description]($url)"
+          template: [$description]($url)
