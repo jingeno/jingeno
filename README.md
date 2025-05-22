@@ -11,3 +11,7 @@
 	<a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno&style=social" alt="X"></a>
 	<a href="https://www.linkedin.com/in/joeingeno"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
 </p>
+
+&nbsp;**Latest Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
