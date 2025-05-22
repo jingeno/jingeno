@@ -6,7 +6,7 @@
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) 	[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![](https://img.shields.io/static/v1?label=&message=Postman&color=FF6C37&logo=postman&logoColor=FFFFFF)]()  
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#) [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#) [![](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF)]()  
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) [![](https://img.shields.io/static/v1?label=&message=NuGet&color=004880&logo=nuget&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=JSON&color=000000&logo=json&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF)]()  
-
+<br></br>
 <p><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno&style=social" alt="X"></p>
 
 <!-- BLOG-POST-LIST:START -->
