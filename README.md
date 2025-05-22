@@ -9,10 +9,5 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 
-<!-- BLOG-POST-LIST:START -->
-- [Gemini Diffusion - Google&#39;s state-of-the-art, experimental text diffusion model deepmind.google/models/gemini-… #deepmind #gemini #AI](https://x.com/JoeIngeno/status/1925650171234263483)
-- [For Algorithms, a Little Memory Outweighs a Lot of Time quantamagazine.org/for-algorithms…](https://x.com/JoeIngeno/status/1925382406166413683)
-- [Introducing Jules - an asynchronous coding agent from Google that plans, implements and creates pull requests for you jules.google #jules #google #AI](https://x.com/JoeIngeno/status/1925340942652846560)
-- [Enable AI assistance in Chrome&#39;s DevTools - Chat with Gemini directly in DevTools developer.chrome.com/docs/devtools/… #chrome #DevTools #Gemini #AI](https://x.com/JoeIngeno/status/1925287774929731942)
-- [Microsoft Build 2025 - Satya Nadella Opening Keynote youtube.com/watch?v=ceV3Rs… #msbuild #msbuild2025](https://x.com/JoeIngeno/status/1924997360515444811)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[Gemini Diffusion - Google&#39;s state-of-the-art, experimental text diffusion model https://deepmind.google/models/gemini-diffusion/ #deepmind #gemini #AI](https://bsky.app/profile/joeingeno.bsky.social/post/3lprxexr2ap2x)[For Algorithms, a Little Memory Outweighs a Lot of Time https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/](https://bsky.app/profile/joeingeno.bsky.social/post/3lpq3wfpccz26)[Introducing Jules - an asynchronous coding agent from Google that plans, implements and creates pull requests for you jules.google #jules #google #AI
+https://jules.google/](https://bsky.app/profile/joeingeno.bsky.social/post/3lppsqce2ou2q)[Enable AI assistance in Chrome&#39;s DevTools - Chat with Gemini directly in DevTools https://developer.chrome.com/docs/devtools/ai-assistance/get-started #chrome #DevTools #Gemini #AI](https://bsky.app/profile/joeingeno.bsky.social/post/3lppgvxl2zg2i)[Microsoft Build 2025 - Satya Nadella Opening Keynote https://www.youtube.com/watch?v=ceV3RsG946s #msbuild #msbuild2025](https://bsky.app/profile/joeingeno.bsky.social/post/3lpngglazwz2p)<!-- BLOG-POST-LIST:END -->
