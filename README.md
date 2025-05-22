@@ -7,12 +7,8 @@
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#) [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#) [![](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF)]()  
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) [![](https://img.shields.io/static/v1?label=&message=NuGet&color=004880&logo=nuget&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=JSON&color=000000&logo=json&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF)]() [![](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF)]()  
 
-<p align="center">
-	<a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno&style=social" alt="X"></a>
-	<a href="https://www.linkedin.com/in/joeingeno"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-</p>
+<p><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno&style=social" alt="X"></p>
 
-&nbsp;**Latest Posts**
 <!-- BLOG-POST-LIST:START -->
 - [For Algorithms, a Little Memory Outweighs a Lot of Time https://t.co/hQDtvS8wnh](https://x.com/JoeIngeno/status/1925382406166413683)
 - [Introducing Jules - an asynchronous coding agent from Google that plans, implements and creates pull requests for you https://t.co/jhBpPrTBI8 #jules #google #AI](https://x.com/JoeIngeno/status/1925340942652846560)
