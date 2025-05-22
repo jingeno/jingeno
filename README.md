@@ -9,10 +9,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 
-<!-- BLOG-POST-LIST:START -->
-- [For Algorithms, a Little Memory Outweighs a Lot of Time https://t.co/hQDtvS8wnh](https://x.com/JoeIngeno/status/1925382406166413683)
-- [Introducing Jules - an asynchronous coding agent from Google that plans, implements and creates pull requests for you https://t.co/jhBpPrTBI8 #jules #google #AI](https://x.com/JoeIngeno/status/1925340942652846560)
-- [Enable AI assistance in Chrome&#39;s DevTools - Chat with Gemini directly in DevTools https://t.co/q6Qqna0P3t #chrome #DevTools #Gemini #AI](https://x.com/JoeIngeno/status/1925287774929731942)
-- [Microsoft Build 2025 - Satya Nadella Opening Keynote https://t.co/TqzuLqVYjH #msbuild #msbuild2025](https://x.com/JoeIngeno/status/1924997360515444811)
-- [Microsoft’s plan to fix the web: letting every website run AI search for cheap https://t.co/dE0yQR2LCu #NLWeb #AI](https://x.com/JoeIngeno/status/1924978545232634354)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="{{url}}" target="_blank"><b>{{title}}</b></a><br><small>Posted on {{date}}</small><br><span>{{contentSnippet}}</span></li><li><a href="{{url}}" target="_blank"><b>{{title}}</b></a><br><small>Posted on {{date}}</small><br><span>{{contentSnippet}}</span></li><li><a href="{{url}}" target="_blank"><b>{{title}}</b></a><br><small>Posted on {{date}}</small><br><span>{{contentSnippet}}</span></li><li><a href="{{url}}" target="_blank"><b>{{title}}</b></a><br><small>Posted on {{date}}</small><br><span>{{contentSnippet}}</span></li><li><a href="{{url}}" target="_blank"><b>{{title}}</b></a><br><small>Posted on {{date}}</small><br><span>{{contentSnippet}}</span></li><!-- BLOG-POST-LIST:END -->
