@@ -14,10 +14,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
       - name: Set up Git user for committing
         run: |
           git config --global user.name "jingeno"
           git config --global user.email "joe.ingeno@protonmail.com"
+          git add .
+          git commit -m "Updated latest posts"
+          git push origin HEAD:master
       - name: Pull in X posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
