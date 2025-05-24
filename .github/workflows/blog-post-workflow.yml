@@ -14,9 +14,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Set up Git user for committing
+        run: |
+          git config --global user.name "jingeno"
+          git config --global user.email "joe.ingeno@protonmail.com"
       - name: Pull in X posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
           template: |
             - $description<br/><br/>
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
