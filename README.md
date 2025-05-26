@@ -9,6 +9,5 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 
-<!-- BLOG-POST-LIST:START -->- GitHub wants to spam open source projects with AI slop https://www.youtube.com/watch?v=XM1EPHaHBuM #github #AI<br/><br/>- The Dumbest Move in Tech Right Now: Laying Off Developers Because of AI https://ppaolo.substack.com/p/the-dumbest-move-in-tech-right-now #AI<br/><br/>- Announcing TypeScript Native Previews https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/ #typescript #typescriptlang<br/><br/>- Kilo: A text editor in less than 1000 LOC with syntax highlight and search github.com/antirez/kilo
-https://github.com/antirez/kilo<br/><br/>- Claude 4 is here! www.anthropic.com/news/claude-4 #claude #anthropic #AI
-https://www.anthropic.com/news/claude-4<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Documentation done right: A developer’s guide https://github.blog/developer-skills/documentation-done-right-a-developers-guide/<br/><br/>- GitHub wants to spam open source projects with AI slop https://www.youtube.com/watch?v=XM1EPHaHBuM #github #AI<br/><br/>- The Dumbest Move in Tech Right Now: Laying Off Developers Because of AI https://ppaolo.substack.com/p/the-dumbest-move-in-tech-right-now #AI<br/><br/>- Announcing TypeScript Native Previews https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/ #typescript #typescriptlang<br/><br/>- Kilo: A text editor in less than 1000 LOC with syntax highlight and search github.com/antirez/kilo
+https://github.com/antirez/kilo<br/><br/><!-- BLOG-POST-LIST:END -->
