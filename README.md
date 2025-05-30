@@ -9,6 +9,6 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 
-<!-- BLOG-POST-LIST:START -->- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/ #csharp #dotnet<br/><br/>- Creating issues with Copilot on #GitHub is in public preview https://github.blog/changelog/2025-05-19-creating-issues-with-copilot-on-github-com-is-in-public-preview/ #github #copilot
+<!-- BLOG-POST-LIST:START -->- Azure DevOps with GitHub Repositories – Your path to Agentic AI https://devblogs.microsoft.com/devops/azure-devops-with-github-repositories-your-path-to-agentic-ai/ #github #azure #AI<br/><br/>- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/ #csharp #dotnet<br/><br/>- Creating issues with Copilot on #GitHub is in public preview https://github.blog/changelog/2025-05-19-creating-issues-with-copilot-on-github-com-is-in-public-preview/ #github #copilot
 https://github.com<br/><br/>- Collaborative Development with GitHub Copilot https://www.youtube.com/watch?v=CKAs9bRMDcQ<br/><br/>- CSS Minecraft benjaminaster.com/css-minecraft/
-https://benjaminaster.com/css-minecraft/<br/><br/>- OpenAI ChatGPT o3 caught sabotaging shutdown in terrifying AI test https://betanews.com/2025/05/25/openai-o3-ai-model-shutdown-sabotage/ #OpenAI #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://benjaminaster.com/css-minecraft/<br/><br/><!-- BLOG-POST-LIST:END -->
