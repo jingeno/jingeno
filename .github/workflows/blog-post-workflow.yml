@@ -21,13 +21,9 @@ jobs:
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
           template: |
             - $description<br/><br/>
-      - name: Debug README snippet
-        run: grep -n 'https://github.com' README.md
       - name: Remove https://github.com suffix with flexible br tags
         run: |
           sed -i 's|https://github\.com<br/><br/>|<br/><br/>|g' README.md
-      - name: Debug README snippet
-        run: tail -40 README.md
       - name: Commit and push cleaned README
         run: |
           git config user.name "jingeno"
