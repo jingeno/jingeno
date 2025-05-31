@@ -19,6 +19,8 @@ jobs:
         with:
           max_post_count: "5"
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
+          committer_username: jingeno
+          committer_email: jingeno@users.noreply.github.com
           template: |
             - $description<br/><br/>
       - name: Remove https://github.com suffix with flexible br tags
