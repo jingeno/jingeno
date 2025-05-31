@@ -28,6 +28,8 @@ jobs:
       
           # Remove https://github.com plus trailing <br/> even if before <!-- BLOG-POST-LIST:END -->
           sed -i 's#https://github\.com\(</\\?br/?>\)*\(<!-- BLOG-POST-LIST:END -->\|\s*$\)##g' README.md     
+      - name: Debug README snippet
+        run: tail -40 README.md
       - name: Commit and push cleaned README
         run: |
           git config user.name "jingeno"
