@@ -17,8 +17,9 @@ jobs:
       - name: Pull in X posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "5"
+          max_post_count: "6"
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
+          commit_message: Updated with my latest X posts
           committer_username: jingeno
           committer_email: jingeno@users.noreply.github.com
           template: |
@@ -31,5 +32,5 @@ jobs:
           git config user.name "jingeno"
           git config user.email "jingeno@users.noreply.github.com"
           git add README.md
-          git commit -m "Updated README.md with latest X posts" || echo "Nothing to commit"
+          git commit -m "Removed unnecessary github.com link(s)" || echo "Nothing to commit"
           git push
