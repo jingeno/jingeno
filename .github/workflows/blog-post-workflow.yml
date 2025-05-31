@@ -21,13 +21,12 @@ jobs:
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
           template: |
             - $description<br/><br/>
-      - name: Remove https://github.com suffix
+      - name: Debug README snippet
+        run: grep -n 'https://github.com' README.md
+      - name: Remove https://github.com suffix with flexible br tags
         run: |
-          # Delete any line that contains ONLY the URL + <br/><br/> (if any)
-          sed -i '/^https:\/\/github\.com\s*<br\/><br\/>$/d' README.md
-      
-          # Remove URL + trailing <br/>s if followed by END marker or end of line
-          sed -i 's#https://github\.com\(\s*<[/]\?br\s*/?>\)*\(<!-- BLOG-POST-LIST:END -->\|\s*$\)##g' README.md
+          sed -i '/^https:\/\/github\.com[[:space:]]*<br\/><br\/>[[:space:]]*$/d' README.md
+          sed -i 's#https://github\.com\([[:space:]]*<[/]\?br[[:space:]]*/?>\)*\(<!-- BLOG-POST-LIST:END -->\|[[:space:]]*$\)##g' README.md
       - name: Debug README snippet
         run: tail -40 README.md
       - name: Commit and push cleaned README
