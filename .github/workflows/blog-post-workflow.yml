@@ -24,3 +24,10 @@ jobs:
       - name: Remove "https://github.com" suffix from descriptions
         run: |
           sed -i 's#https://github\.com<br/><br/>$##g' README.md
+      - name: Commit and push cleaned README
+        run: |
+          git config user.name "jingeno"
+          git config user.email "jingeno@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated README.md with latest X posts"
+          git push
