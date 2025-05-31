@@ -23,11 +23,11 @@ jobs:
             - $description<br/><br/>
       - name: Remove https://github.com suffix
         run: |
-          # Remove standalone line if any
-          sed -i '/^https:\/\/github\.com<br\/><br\/>$/d' README.md
+          # Delete any line that contains ONLY the URL + <br/><br/> (if any)
+          sed -i '/^https:\/\/github\.com\s*<br\/><br\/>$/d' README.md
       
-          # Remove https://github.com plus trailing <br/> even if before <!-- BLOG-POST-LIST:END -->
-          sed -i 's#https://github\.com\(</\\?br/?>\)*\(<!-- BLOG-POST-LIST:END -->\|\s*$\)##g' README.md     
+          # Remove URL + trailing <br/>s if followed by END marker or end of line
+          sed -i 's#https://github\.com\(\s*<[/]\?br\s*/?>\)*\(<!-- BLOG-POST-LIST:END -->\|\s*$\)##g' README.md
       - name: Debug README snippet
         run: tail -40 README.md
       - name: Commit and push cleaned README
