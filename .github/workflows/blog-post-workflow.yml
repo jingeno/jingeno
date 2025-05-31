@@ -21,13 +21,17 @@ jobs:
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
           template: |
             - $description<br/><br/>
-      - name: Remove "https://github.com" suffix from descriptions
+      - name: Remove https://github.com suffix
         run: |
-          sed -i 's#https://github\.com<br/><br/>$##g' README.md
+            # Remove if it's a standalone line
+            sed -i '/^https:\/\/github\.com<br\/><br\/>$/d' README.md
+
+            # Remove if it appears at the END of any line (with optional <br/>s)
+            sed -i 's#https://github\.com\(</\?br/?>\)*$##g' README.md         
       - name: Commit and push cleaned README
         run: |
           git config user.name "jingeno"
           git config user.email "jingeno@users.noreply.github.com"
           git add README.md
-          git commit -m "Updated README.md with latest X posts"
+          git commit -m "Updated README.md with latest X posts" || echo "Nothing to commit"
           git push
