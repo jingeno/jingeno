@@ -25,8 +25,8 @@ jobs:
         run: grep -n 'https://github.com' README.md
       - name: Remove https://github.com suffix with flexible br tags
         run: |
-          sed -i '/^https:\/\/github\.com[[:space:]]*<br\/><br\/>[[:space:]]*$/d' README.md
-          sed -i 's#https://github\.com\([[:space:]]*<[/]\?br[[:space:]]*/?>\)*\(<!-- BLOG-POST-LIST:END -->\|[[:space:]]*$\)##g' README.md
+          sed -i 's/https:\/\/github\.com$//' README.md
+          sed -i '/^\s*https:\/\/github\.com\s*<br\/><br\/>\s*$/d' README.md
       - name: Debug README snippet
         run: tail -40 README.md
       - name: Commit and push cleaned README
