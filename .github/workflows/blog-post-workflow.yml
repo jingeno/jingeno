@@ -14,23 +14,38 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Set up SSH signing key
+        env:
+          SSH_SIGNING_KEY: ${{ secrets.SSH_SIGNING_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_SIGNING_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keygen -y -f ~/.ssh/id_ed25519 > ~/.ssh/id_ed25519.pub
+          git config --global gpg.format ssh
+          git config --global user.signingkey ~/.ssh/id_ed25519.pub
+          git config --global commit.gpgsign true
+
       - name: Pull in X posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "5"
+          max_post_count: "6"
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
           commit_message: Updated with my latest X posts
           committer_username: jingeno
           committer_email: jingeno@users.noreply.github.com
           template: |
             - $description<br/><br/>
+
       - name: Remove https://github.com suffix with flexible br tags
         run: |
           sed -i 's|https://github\.com<br/><br/>|<br/><br/>|g' README.md
-      - name: Commit and push cleaned README
+
+      - name: Commit and push cleaned README (signed)
         run: |
           git config user.name "jingeno"
           git config user.email "jingeno@users.noreply.github.com"
           git add README.md
-          git commit -m "Removed unnecessary github.com link(s)" || echo "Nothing to commit"
+          git commit -S -m "Removed unnecessary github.com link(s)" || echo "Nothing to commit"
           git push
