@@ -17,7 +17,7 @@ jobs:
       - name: Pull in X posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "6"
+          max_post_count: "5"
           feed_list: "https://bsky.app/profile/did:plc:w2gemkuyjfxa3whvwixnzihz/rss"
           template: |
             - $description<br/><br/>
