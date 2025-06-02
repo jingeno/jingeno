@@ -24,9 +24,13 @@ jobs:
           committer_username: jingeno
           committer_email: jingeno@users.noreply.github.com
           template: |
-            {{#description}}
-            - $description<br/><br/>
-            {{/description}}
+            <!-- BLOG-POST-LIST:START -->
+            {{#items}}
+              {{#description}}
+            - {{description}}<br/><br/>
+              {{/description}}
+            {{/items}}
+            <!-- BLOG-POST-LIST:END -->
 
       - name: Remove https://github.com suffix with flexible br tags
         run: |
