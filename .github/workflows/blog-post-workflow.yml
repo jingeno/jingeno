@@ -29,8 +29,12 @@ jobs:
       - name: Remove https://github.com suffix with flexible br tags
         run: |
           sed -i 's|https://github\.com<br/><br/>|<br/><br/>|g' README.md
-      - name: Commit and push cleaned README
 
+      - name: Remove empty description entries
+        run: |
+          sed -i '/^- <br\/><br\/>/d' README.md
+          
+      - name: Commit and push cleaned README
         run: |
           git config user.name "jingeno"
           git config user.email "jingeno@users.noreply.github.com"
