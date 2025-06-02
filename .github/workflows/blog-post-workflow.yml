@@ -32,7 +32,7 @@ jobs:
 
       - name: Remove empty description entries
         run: |
-          sed -i '/^- <br\/><br\/>/d' README.md
+          sed -i 's/- <br\/><br\/>//g' README.md
           
       - name: Commit and push cleaned README
         run: |
