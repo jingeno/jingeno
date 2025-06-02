@@ -39,6 +39,6 @@ jobs:
           git config user.name "jingeno"
           git config user.email "jingeno@users.noreply.github.com"
           git add README.md
-          git commit -m "Removed unnecessary github.com link(s)" || echo "Nothing to commit"
-          git pushit -S -m "Removed unnecessary github.com link(s)" || echo "Nothing to commit"
+          git commit -m "Cleaned up README posts" || echo "Nothing to commit"
+          git pushit -S -m "Cleaned up README posts" || echo "Nothing to commit"
           git push
