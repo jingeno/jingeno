@@ -8,14 +8,34 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->{{#description}}
-- <br/><br/>
-{{/description}}{{#description}}
-- Fine-tune the volume of logs your .NET app produces https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/ #dotnet<br/><br/>
-{{/description}}{{#description}}
-- GitHub MCP Exploited: Accessing private repositories via MCP https://invariantlabs.ai/blog/mcp-github-vulnerability #github #MCP<br/><br/>
-{{/description}}{{#description}}
-- Redis bets big on an open source return https://www.infoworld.com/article/3975620/redis-bets-big-on-an-open-source-return.html #redis<br/><br/>
-{{/description}}{{#description}}
-- AI didn’t kill Stack Overflow https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html #AI #stackoverflow<br/><br/>
-{{/description}}<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:START -->
+{{#items}}
+  {{#description}}
+- {{description}}<br/><br/>
+  {{/description}}
+{{/items}}
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+{{#items}}
+  {{#description}}
+- {{description}}<br/><br/>
+  {{/description}}
+{{/items}}
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+{{#items}}
+  {{#description}}
+- {{description}}<br/><br/>
+  {{/description}}
+{{/items}}
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+{{#items}}
+  {{#description}}
+- {{description}}<br/><br/>
+  {{/description}}
+{{/items}}
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:START -->
+{{#items}}
+  {{#description}}
+- {{description}}<br/><br/>
+  {{/description}}
+{{/items}}
+<!-- BLOG-POST-LIST:END --><!-- BLOG-POST-LIST:END -->
