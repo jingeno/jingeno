@@ -8,5 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- New algorithm beats Dijkstra&#39;s time for shortest paths in directed graphs arxiv.org/abs/2504.17033
-https://arxiv.org/abs/2504.17033<br/><br/>- Progressive JSON https://overreacted.io/progressive-json/<br/><br/>- Fine-tune the volume of logs your .NET app produces https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/ #dotnet<br/><br/>- GitHub MCP Exploited: Accessing private repositories via MCP https://invariantlabs.ai/blog/mcp-github-vulnerability #github #MCP<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Stackoverflow now has a general chat chat.stackoverflow.com #stackoverflow
+https://chat.stackoverflow.com/<br/><br/>- New algorithm beats Dijkstra&#39;s time for shortest paths in directed graphs arxiv.org/abs/2504.17033
+https://arxiv.org/abs/2504.17033<br/><br/>- Progressive JSON https://overreacted.io/progressive-json/<br/><br/>- <br/><br/>- Fine-tune the volume of logs your .NET app produces https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/ #dotnet<br/><br/><!-- BLOG-POST-LIST:END -->
