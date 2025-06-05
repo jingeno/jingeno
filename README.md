@@ -8,7 +8,7 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Code[dot]org Changes Mission To &#39;Make CS and AI a Core Part of K-12 Education https://news.slashdot.org/story/25/06/04/1323220/codeorg-changes-mission-to-make-cs-and-ai-a-core-part-of-k-12-education
+<!-- BLOG-POST-LIST:START -->- The Prompt Engineering Playbook for Programmers https://addyo.substack.com/p/the-prompt-engineering-playbook-for<br/><br/>- Code[dot]org Changes Mission To &#39;Make CS and AI a Core Part of K-12 Education https://news.slashdot.org/story/25/06/04/1323220/codeorg-changes-mission-to-make-cs-and-ai-a-core-part-of-k-12-education
 https://Code.org<br/><br/>- Stackoverflow now has a general chat chat.stackoverflow.com #stackoverflow
 https://chat.stackoverflow.com/<br/><br/>- New algorithm beats Dijkstra&#39;s time for shortest paths in directed graphs arxiv.org/abs/2504.17033
 https://arxiv.org/abs/2504.17033<br/><br/>- Progressive JSON https://overreacted.io/progressive-json/<br/><br/><!-- BLOG-POST-LIST:END -->
