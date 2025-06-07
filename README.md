@@ -8,6 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Meta: Shut Down Your Invasive AI Discover Feed. Now. https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/<br/><br/>- Cursor 1.0 is here https://www.cursor.com/en/changelog/1-0 #cursor #IDE #AI<br/><br/>- The Prompt Engineering Playbook for Programmers https://addyo.substack.com/p/the-prompt-engineering-playbook-for<br/><br/>- Code[dot]org Changes Mission To &#39;Make CS and AI a Core Part of K-12 Education https://news.slashdot.org/story/25/06/04/1323220/codeorg-changes-mission-to-make-cs-and-ai-a-core-part-of-k-12-education
-https://Code.org<br/><br/>- Stackoverflow now has a general chat chat.stackoverflow.com #stackoverflow
-https://chat.stackoverflow.com/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Decrease in Entry-Level Tech Jobs https://newsletter.eng-leadership.com/p/decrease-in-entry-level-tech-jobs<br/><br/>- Meta: Shut Down Your Invasive AI Discover Feed. Now. https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/<br/><br/>- Cursor 1.0 is here https://www.cursor.com/en/changelog/1-0 #cursor #IDE #AI<br/><br/>- The Prompt Engineering Playbook for Programmers https://addyo.substack.com/p/the-prompt-engineering-playbook-for<br/><br/>- Code[dot]org Changes Mission To &#39;Make CS and AI a Core Part of K-12 Education https://news.slashdot.org/story/25/06/04/1323220/codeorg-changes-mission-to-make-cs-and-ai-a-core-part-of-k-12-education
+https://Code.org<br/><br/><!-- BLOG-POST-LIST:END -->
