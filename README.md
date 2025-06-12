@@ -9,4 +9,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Why agents are bad pair programmers https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/<br/><br/>- Agentic Coding Recommendations https://lucumr.pocoo.org/2025/6/12/agentic-coding/<br/><br/>- Why Go is a good fit for agents docs.hatchet.run/blog/go-agents #golang
-https://docs.hatchet.run/blog/go-agents<br/><br/>- <br/><br/>- AI coding assistants aren’t really making devs feel more productive https://leaddev.com/velocity/ai-coding-assistants-arent-really-making-devs-feel-more-productive #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://docs.hatchet.run/blog/go-agents<br/><br/>- AI coding assistants aren’t really making devs feel more productive https://leaddev.com/velocity/ai-coding-assistants-arent-really-making-devs-feel-more-productive #AI<br/><br/><!-- BLOG-POST-LIST:END -->
