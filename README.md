@@ -9,4 +9,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- 2025 State of AI code quality https://www.qodo.ai/reports/state-of-ai-code-quality/ #AI<br/><br/>- Why agents are bad pair programmers https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/<br/><br/>- Agentic Coding Recommendations https://lucumr.pocoo.org/2025/6/12/agentic-coding/<br/><br/>- Why Go is a good fit for agents docs.hatchet.run/blog/go-agents #golang
-https://docs.hatchet.run/blog/go-agents<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
+https://docs.hatchet.run/blog/go-agents<br/><br/><!-- BLOG-POST-LIST:END -->
