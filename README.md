@@ -8,5 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- 2025 State of AI code quality https://www.qodo.ai/reports/state-of-ai-code-quality/ #AI<br/><br/>- Why agents are bad pair programmers https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/<br/><br/>- Agentic Coding Recommendations https://lucumr.pocoo.org/2025/6/12/agentic-coding/<br/><br/>- Why Go is a good fit for agents docs.hatchet.run/blog/go-agents #golang
-https://docs.hatchet.run/blog/go-agents<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- VS Code v1.101 &lpar;May 2025&rpar; Released &lpar;includes MCP support&rpar; code.visualstudio.com/updates/v1_101
+https://github.com/microsoft/vscode/releases/tag/1.101.0<br/><br/>- The one billionth repository on #GitHub  has been created https://github.com/AasishPokhrel/shit/issues/1
+https://github.com/aasishpokhrel<br/><br/>- 2025 State of AI code quality https://www.qodo.ai/reports/state-of-ai-code-quality/ #AI<br/><br/>- Why agents are bad pair programmers https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/<br/><br/>- Agentic Coding Recommendations https://lucumr.pocoo.org/2025/6/12/agentic-coding/<br/><br/><!-- BLOG-POST-LIST:END -->
