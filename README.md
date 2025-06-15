@@ -8,6 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Chatterbox TTS - Production-grade, open source Text-to-Speech model https://github.com/resemble-ai/chatterbox #AI<br/><br/>- The Case for Software Craftsmanship in the Era of Vibes https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes<br/><br/>- GitHub Unveils Prototype AI Agent for Autonomous Bug Fixing https://www.infoq.com/news/2025/06/github-ai-agent-bugfixing/ #github #AI<br/><br/>- VS Code v1.101 &lpar;May 2025&rpar; Released &lpar;includes MCP support&rpar; code.visualstudio.com/updates/v1_101
-https://github.com/microsoft/vscode/releases/tag/1.101.0<br/><br/>- The one billionth repository on #GitHub  has been created https://github.com/AasishPokhrel/shit/issues/1
-https://github.com/aasishpokhrel<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- No-as-a-Service - An API that returns random rejection reasons https://github.com/hotheadhacker/no-as-a-service<br/><br/>- Chatterbox TTS - Production-grade, open source Text-to-Speech model https://github.com/resemble-ai/chatterbox #AI<br/><br/>- The Case for Software Craftsmanship in the Era of Vibes https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes<br/><br/>- GitHub Unveils Prototype AI Agent for Autonomous Bug Fixing https://www.infoq.com/news/2025/06/github-ai-agent-bugfixing/ #github #AI<br/><br/>- VS Code v1.101 &lpar;May 2025&rpar; Released &lpar;includes MCP support&rpar; code.visualstudio.com/updates/v1_101
+https://github.com/microsoft/vscode/releases/tag/1.101.0<br/><br/><!-- BLOG-POST-LIST:END -->
