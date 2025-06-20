@@ -30,6 +30,10 @@ jobs:
         run: |
           sed -i 's|https://github\.com<br/><br/>|<br/><br/>|g' README.md
 
+      - name: Remove https://youtube.com suffix with flexible br tags
+        run: |
+          sed -i 's|https://youtube\.com<br/><br/>|<br/><br/>|g' README.md
+
       - name: Remove empty description entries
         run: |
           sed -i 's/- <br\/><br\/>//g' README.md
