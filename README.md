@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- MCP Specification &lpar;Version June 18, 2025&rpar; https://modelcontextprotocol.io/specification/2025-06-18/changelog #MCP #AI<br/><br/>- Software in the era of AI https://www.youtube.com/watch?v=LCEmiRjPEtQ #ycombinator #AI
+<!-- BLOG-POST-LIST:START -->- The Story of a Prisoner Who Became a Software Engineer https://analyticsindiamag.com/ai-features/the-story-of-a-prisoner-who-became-a-software-engineer/<br/><br/>- Writing documentation for AI: best practices https://docs.kapa.ai/improving/writing-best-practices #AI<br/><br/>- MCP Specification &lpar;Version June 18, 2025&rpar; https://modelcontextprotocol.io/specification/2025-06-18/changelog #MCP #AI<br/><br/>- Software in the era of AI https://www.youtube.com/watch?v=LCEmiRjPEtQ #ycombinator #AI
 https://youtube.com<br/><br/>- Exploring #JavaScript &lpar;ES2025 Edition&rpar; - Free Online exploringjs.com/js/index.html
-https://exploringjs.com/js/index.html<br/><br/>- Become More Social as an Engineer https://newsletter.eng-leadership.com/p/become-more-social-as-an-engineer<br/><br/>- Now might be the best time to learn software development https://substack.com/home/post/p-165655726<br/><br/><!-- BLOG-POST-LIST:END -->
+https://exploringjs.com/js/index.html<br/><br/><!-- BLOG-POST-LIST:END -->
