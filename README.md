@@ -8,6 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- The Story of a Prisoner Who Became a Software Engineer https://analyticsindiamag.com/ai-features/the-story-of-a-prisoner-who-became-a-software-engineer/<br/><br/>- Writing documentation for AI: best practices https://docs.kapa.ai/improving/writing-best-practices #AI<br/><br/>- MCP Specification &lpar;Version June 18, 2025&rpar; https://modelcontextprotocol.io/specification/2025-06-18/changelog #MCP #AI<br/><br/>- Software in the era of AI https://www.youtube.com/watch?v=LCEmiRjPEtQ #ycombinator #AI
-https://youtube.com<br/><br/>- Exploring #JavaScript &lpar;ES2025 Edition&rpar; - Free Online exploringjs.com/js/index.html
-https://exploringjs.com/js/index.html<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Rate Limiting in .NET with Redis https://hamedsalameh.com/implementing-rate-limiting-in-net-with-redis-easily/ #redis #dotnet<br/><br/>- The Story of a Prisoner Who Became a Software Engineer https://analyticsindiamag.com/ai-features/the-story-of-a-prisoner-who-became-a-software-engineer/<br/><br/>- Writing documentation for AI: best practices https://docs.kapa.ai/improving/writing-best-practices #AI<br/><br/>- MCP Specification &lpar;Version June 18, 2025&rpar; https://modelcontextprotocol.io/specification/2025-06-18/changelog #MCP #AI<br/><br/>- Software in the era of AI https://www.youtube.com/watch?v=LCEmiRjPEtQ #ycombinator #AI
+https://youtube.com<br/><br/><!-- BLOG-POST-LIST:END -->
