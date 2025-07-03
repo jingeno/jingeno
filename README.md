@@ -8,6 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- #ASCIIMoon: The moon&#39;s phase live in ASCII art asciimoon.com
-https://asciimoon.com<br/><br/>- Building Intelligent Agents with Strands: A Hands-On Guide https://www.youtube.com/watch?v=TD2ihEBkdkY #AI<br/><br/>- Writing Code To Be Read at a Glance https://jelv.is/blog/Writing-Code-To-Be-Read-at-a-Glance/<br/><br/>- The New Skill in AI is Not Prompting, It&#39;s Context Engineering https://www.philschmid.de/context-engineering #AI<br/><br/>- Claude Code now supports Hooks https://docs.anthropic.com/en/docs/claude-code/hooks #claude #anthropic #AI
-https://anthropic.com<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Security researcher earns $25k by finding secrets in so called “deleted commits” on GitHub, showing that they are not really deleted https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets<br/><br/>- #ASCIIMoon: The moon&#39;s phase live in ASCII art asciimoon.com
+https://asciimoon.com<br/><br/>- Building Intelligent Agents with Strands: A Hands-On Guide https://www.youtube.com/watch?v=TD2ihEBkdkY #AI<br/><br/>- Writing Code To Be Read at a Glance https://jelv.is/blog/Writing-Code-To-Be-Read-at-a-Glance/<br/><br/>- The New Skill in AI is Not Prompting, It&#39;s Context Engineering https://www.philschmid.de/context-engineering #AI<br/><br/><!-- BLOG-POST-LIST:END -->
