@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- .NET 9.0.7 Released https://github.com/dotnet/core/releases/tag/v9.0.7 #dotnet<br/><br/>- Cursors stealth bait and switch: From unlimited to unusable https://www.reddit.com/r/cursor/comments/1ltcer7/cursors_stealth_bait_and_switch_from_unlimited_to/<br/><br/>- #Opencode: AI coding agent, built for the terminal github.com/sst/opencode #AI
-https://github.com/sst<br/><br/>- 1 Billion DB Records Update Challenge - My Approach https://beyondthesyntax.substack.com/p/1-billion-db-records-update-challenge<br/><br/>- Context Engineering for Agents https://rlancemartin.github.io/2025/06/23/context_engineering/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Stop forcing AI tools on your engineers https://newsletter.manager.dev/p/stop-forcing-ai-tools-on-your-engineers #AI<br/><br/>- .NET 9.0.7 Released https://github.com/dotnet/core/releases/tag/v9.0.7 #dotnet<br/><br/>- Cursors stealth bait and switch: From unlimited to unusable https://www.reddit.com/r/cursor/comments/1ltcer7/cursors_stealth_bait_and_switch_from_unlimited_to/<br/><br/>- #Opencode: AI coding agent, built for the terminal github.com/sst/opencode #AI
+https://github.com/sst<br/><br/>- 1 Billion DB Records Update Challenge - My Approach https://beyondthesyntax.substack.com/p/1-billion-db-records-update-challenge<br/><br/><!-- BLOG-POST-LIST:END -->
