@@ -8,7 +8,7 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- JPL - JSON Programming Language github.com/W1LDN16H7/JPL #JSON
+<!-- BLOG-POST-LIST:START -->- Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/ #AI<br/><br/>- JPL - JSON Programming Language github.com/W1LDN16H7/JPL #JSON
 https://github.com/W1LDN16H7/JPL<br/><br/>- VS Code v1.102 &lpar;June 2025&rpar; Released code.visualstudio.com/updates/v1_102
-https://code.visualstudio.com/updates/v1_102<br/><br/>- MCP-B: Model Context Protocol for the Browser mcp-b.ai #MCP #AI
-https://mcp-b.ai<br/><br/>- Best Practices for Mastering GitHub Copilot Chat https://www.youtube.com/watch?v=bqqZ35Mgq7k<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_102<br/><br/>- <br/><br/>- MCP-B: Model Context Protocol for the Browser mcp-b.ai #MCP #AI
+https://mcp-b.ai<br/><br/><!-- BLOG-POST-LIST:END -->
