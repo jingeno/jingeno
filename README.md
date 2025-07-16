@@ -8,5 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- .NET 10.0 Preview 6 Released https://github.com/dotnet/core/releases/tag/v10.0.0-preview.6 #dotnet<br/><br/>- Caching planetscale.com/blog/caching
-https://planetscale.com/blog/caching<br/><br/>- How does a screen work? https://www.makingsoftware.com/chapters/how-a-screen-works<br/><br/>- System Design Basics - Databases and Connection Pools https://javarevisited.substack.com/p/system-design-basics-databases-and<br/><br/>- AI slows down some experienced software developers, study finds https://www.reuters.com/business/ai-slows-down-some-experienced-software-developers-study-finds-2025-07-10/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- A software conference that advocates for quality bettersoftwareconference.com
+https://bettersoftwareconference.com<br/><br/>- .NET 10.0 Preview 6 Released https://github.com/dotnet/core/releases/tag/v10.0.0-preview.6 #dotnet<br/><br/>- Caching planetscale.com/blog/caching
+https://planetscale.com/blog/caching<br/><br/>- How does a screen work? https://www.makingsoftware.com/chapters/how-a-screen-works<br/><br/>- System Design Basics - Databases and Connection Pools https://javarevisited.substack.com/p/system-design-basics-databases-and<br/><br/><!-- BLOG-POST-LIST:END -->
