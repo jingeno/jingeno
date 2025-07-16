@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- A software conference that advocates for quality bettersoftwareconference.com
+<!-- BLOG-POST-LIST:START -->- #Kiro - A new agentic IDE https://kiro.dev/blog/introducing-kiro/ #AI<br/><br/>- Functional Programming in 40 Minutes https://www.youtube.com/watch?v=QujM1S3tP-I<br/><br/>- A software conference that advocates for quality bettersoftwareconference.com
 https://bettersoftwareconference.com<br/><br/>- .NET 10.0 Preview 6 Released https://github.com/dotnet/core/releases/tag/v10.0.0-preview.6 #dotnet<br/><br/>- Caching planetscale.com/blog/caching
-https://planetscale.com/blog/caching<br/><br/>- How does a screen work? https://www.makingsoftware.com/chapters/how-a-screen-works<br/><br/>- System Design Basics - Databases and Connection Pools https://javarevisited.substack.com/p/system-design-basics-databases-and<br/><br/><!-- BLOG-POST-LIST:END -->
+https://planetscale.com/blog/caching<br/><br/><!-- BLOG-POST-LIST:END -->
