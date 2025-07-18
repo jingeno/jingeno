@@ -8,5 +8,4 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Crawling a billion web pages in just over 24 hours, in 2025 https://andrewkchan.dev/posts/crawler.html<br/><br/>- APIs and Agents: What Developers Need to Know https://www.oreilly.com/radar/apis-and-agents-what-developers-need-to-know/ #AI<br/><br/>- #Kiro - A new agentic IDE https://kiro.dev/blog/introducing-kiro/ #AI<br/><br/>- Functional Programming in 40 Minutes https://www.youtube.com/watch?v=QujM1S3tP-I<br/><br/>- A software conference that advocates for quality bettersoftwareconference.com
-https://bettersoftwareconference.com<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Scalability is not performance https://gregros.dev/architecture/scalability-is-not-performance<br/><br/>- Crawling a billion web pages in just over 24 hours, in 2025 https://andrewkchan.dev/posts/crawler.html<br/><br/>- APIs and Agents: What Developers Need to Know https://www.oreilly.com/radar/apis-and-agents-what-developers-need-to-know/ #AI<br/><br/>- #Kiro - A new agentic IDE https://kiro.dev/blog/introducing-kiro/ #AI<br/><br/>- Functional Programming in 40 Minutes https://www.youtube.com/watch?v=QujM1S3tP-I<br/><br/><!-- BLOG-POST-LIST:END -->
