@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- 6 Weeks of Claude Code https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/ #claude #anthropic #AI<br/><br/>- Continuous AI in software engineering www.seangoedecke.com/continuous-ai/ #AI
-https://www.seangoedecke.com/continuous-ai/<br/><br/>- Build your first Windows app with WinUI and Visual Studio https://www.youtube.com/watch?v=XO_LnDfsQmc #visualstudio #winui #dotnet<br/><br/>- Authenticating GitHub Actions without API keys https://oblique.security/blog/github-actions-identity/ #github<br/><br/>- Announcing TypeScript 5.9 https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/ #typescript #typescriptlang<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Modern Node.js Patterns for 2025 https://kashw1n.com/blog/nodejs-2025/ #nodejs<br/><br/>- How to write a good design document https://grantslatton.com/how-to-design-document<br/><br/>- 6 Weeks of Claude Code https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/ #claude #anthropic #AI<br/><br/>- Continuous AI in software engineering www.seangoedecke.com/continuous-ai/ #AI
+https://www.seangoedecke.com/continuous-ai/<br/><br/>- Build your first Windows app with WinUI and Visual Studio https://www.youtube.com/watch?v=XO_LnDfsQmc #visualstudio #winui #dotnet<br/><br/><!-- BLOG-POST-LIST:END -->
