@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Introducing GPT‑5 for developers https://openai.com/index/introducing-gpt-5-for-developers/ #OpenAI #ChatGPT #AI<br/><br/>- #OpenFreeMap survived 100,000 requests per second https://blog.hyperknot.com/p/openfreemap-survived-100000-requests<br/><br/>- Cursor CLI cursor.com/en/cli
-https://cursor.com/en/cli<br/><br/>- What is the N+1 Query Problem and How to Solve it? https://www.namitjain.com/blog/n-plus-1-query-problem<br/><br/>- Trust in AI coding tools is plummeting https://leaddev.com/technical-direction/trust-in-ai-coding-tools-is-plummeting #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Meet your new AI coding teammate: Gemini CLI GitHub Actions https://blog.google/technology/developers/introducing-gemini-cli-github-actions/ #Gemini #AI<br/><br/>- Introducing GPT‑5 for developers https://openai.com/index/introducing-gpt-5-for-developers/ #OpenAI #ChatGPT #AI<br/><br/>- #OpenFreeMap survived 100,000 requests per second https://blog.hyperknot.com/p/openfreemap-survived-100000-requests<br/><br/>- Cursor CLI cursor.com/en/cli
+https://cursor.com/en/cli<br/><br/>- What is the N+1 Query Problem and How to Solve it? https://www.namitjain.com/blog/n-plus-1-query-problem<br/><br/><!-- BLOG-POST-LIST:END -->
