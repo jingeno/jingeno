@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Vibe Debugging: Enterprises&#39; Up and Coming Nightmare https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and<br/><br/>- Tsinghua University Breaks a 65-Year Limit: A Faster Alternative to Dijkstra’s Algorithm https://medium.com/@vverma4313/tsinghua-university-breaks-a-65-year-limit-a-faster-alternative-to-dijkstras-algorithm-e2f42a608369<br/><br/>- &quot;AGENTS.md&quot; – Open format for guiding coding agents agents.md #AI
+<!-- BLOG-POST-LIST:START -->- The State of MCP Security https://www.pynt.io/blog/llm-security-blogs/state-of-mcp-security #MCP #AI<br/><br/>- Vibe Debugging: Enterprises&#39; Up and Coming Nightmare https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and<br/><br/>- Tsinghua University Breaks a 65-Year Limit: A Faster Alternative to Dijkstra’s Algorithm https://medium.com/@vverma4313/tsinghua-university-breaks-a-65-year-limit-a-faster-alternative-to-dijkstras-algorithm-e2f42a608369<br/><br/>- &quot;AGENTS.md&quot; – Open format for guiding coding agents agents.md #AI
 https://AGENTS.md<br/><br/>- How to Scale Your Model jax-ml.github.io/scaling-book/
-https://jax-ml.github.io/scaling-book/<br/><br/>- Why Did a $10 Billion Startup Let Me Vibe-Code for Them—and Why Did I Love It? https://www.wired.com/story/why-did-a-10-billion-dollar-startup-let-me-vibe-code-for-them-and-why-did-i-love-it/<br/><br/><!-- BLOG-POST-LIST:END -->
+https://jax-ml.github.io/scaling-book/<br/><br/><!-- BLOG-POST-LIST:END -->
