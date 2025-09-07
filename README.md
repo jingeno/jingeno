@@ -8,6 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- OpenAI Plans Jobs Platform, Certification Program for AI Roles https://theaiinsider.tech/2025/09/05/openai-unveils-jobs-platform-certification-program-to-match-workers-with-ai-era-employment/ #OpenAI #AI<br/><br/>- Learn #Python in 10 Minutes for Beginners https://www.youtube.com/watch?v=uBhe1Rvp4PI<br/><br/>- VibeVoice: A Frontier Open-Source Text-to-Speech Model microsoft.github.io/VibeVoice/
-https://microsoft.github.io/VibeVoice/<br/><br/>- Saying NO is not a free action in the world of software engineering https://shiftmag.dev/saying-no-is-not-a-free-action-in-the-world-of-software-engineering-5339/<br/><br/>- Implementing a Foil Sticker Effect https://www.4rknova.com/blog/2025/08/30/foil-sticker
-https://4rknova.com<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Keeping Secrets Out of Logs https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/<br/><br/>- OpenAI Plans Jobs Platform, Certification Program for AI Roles https://theaiinsider.tech/2025/09/05/openai-unveils-jobs-platform-certification-program-to-match-workers-with-ai-era-employment/ #OpenAI #AI<br/><br/>- Learn #Python in 10 Minutes for Beginners https://www.youtube.com/watch?v=uBhe1Rvp4PI<br/><br/>- VibeVoice: A Frontier Open-Source Text-to-Speech Model microsoft.github.io/VibeVoice/
+https://microsoft.github.io/VibeVoice/<br/><br/>- Saying NO is not a free action in the world of software engineering https://shiftmag.dev/saying-no-is-not-a-free-action-in-the-world-of-software-engineering-5339/<br/><br/><!-- BLOG-POST-LIST:END -->
