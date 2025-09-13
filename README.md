@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Let&#39;s Learn MCP with C# https://github.com/microsoft/lets-learn-mcp-csharp #MCP #csharp #dotnet #AI<br/><br/>- How Claude memory works, how it differs from ChatGPT, and what these approaches reveal https://www.shloked.com/writing/claude-memory #anthropic #claude #OpenAI #ChatGPT #AI<br/><br/>- VS Code v1.1.04 &lpar;August 2025&rpar; Released code.visualstudio.com/updates/v1_104 #VSCode
-https://code.visualstudio.com/updates/v1_104<br/><br/>- ChatGPT Developer Mode: Full MCP client access https://platform.openai.com/docs/guides/developer-mode #ChatGPT #OpenAI #MCP #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Happy Programmer&#39;s Day! It is celebrated on the 256th day of the year, a number well known to developers. #ProgrammersDay<br/><br/>- Git&#39;s hidden simplicity: what&#39;s behind every commit https://allvpv.substack.com/p/gits-hidden-simplicity #git
+https://allvpv.substack.com/p/gits-hidden-simplicity?r=6ehrq6&amp;utm_medium=ios&amp;triedRedirect=true<br/><br/>- Let&#39;s Learn MCP with C# https://github.com/microsoft/lets-learn-mcp-csharp #MCP #csharp #dotnet #AI<br/><br/>- <br/><br/>- How Claude memory works, how it differs from ChatGPT, and what these approaches reveal https://www.shloked.com/writing/claude-memory #anthropic #claude #OpenAI #ChatGPT #AI<br/><br/><!-- BLOG-POST-LIST:END -->
