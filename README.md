@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- How Claude memory works, how it differs from ChatGPT, and what these approaches reveal https://www.shloked.com/writing/claude-memory #anthropic #claude #OpenAI #ChatGPT #AI<br/><br/>- VS Code v1.1.04 &lpar;August 2025&rpar; Released code.visualstudio.com/updates/v1_104 #VSCode
+<!-- BLOG-POST-LIST:START -->- <br/><br/>- How Claude memory works, how it differs from ChatGPT, and what these approaches reveal https://www.shloked.com/writing/claude-memory #anthropic #claude #OpenAI #ChatGPT #AI<br/><br/>- VS Code v1.1.04 &lpar;August 2025&rpar; Released code.visualstudio.com/updates/v1_104 #VSCode
 https://code.visualstudio.com/updates/v1_104<br/><br/>- ChatGPT Developer Mode: Full MCP client access https://platform.openai.com/docs/guides/developer-mode #ChatGPT #OpenAI #MCP #AI<br/><br/>- A joint statement from OpenAI and Microsoft https://openai.com/index/joint-statement-from-openai-and-microsoft/ #Microsoft #MSFT #OpenAI #ChatGPT #AI<br/><br/><!-- BLOG-POST-LIST:END -->
