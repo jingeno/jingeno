@@ -9,4 +9,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- UTF-8 is a Brilliant Design https://iamvishnu.com/posts/utf8-is-brilliant-design<br/><br/>- Happy Programmer&#39;s Day! It is celebrated on the 256th day of the year, a number well known to developers. #ProgrammersDay<br/><br/>- Git&#39;s hidden simplicity: what&#39;s behind every commit https://allvpv.substack.com/p/gits-hidden-simplicity #git
-https://allvpv.substack.com/p/gits-hidden-simplicity?r=6ehrq6&amp;utm_medium=ios&amp;triedRedirect=true<br/><br/>- Let&#39;s Learn MCP with C# https://github.com/microsoft/lets-learn-mcp-csharp #MCP #csharp #dotnet #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://allvpv.substack.com/p/gits-hidden-simplicity?r=6ehrq6&amp;utm_medium=ios&amp;triedRedirect=true<br/><br/>- Let&#39;s Learn MCP with C# https://github.com/microsoft/lets-learn-mcp-csharp #MCP #csharp #dotnet #AI<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
