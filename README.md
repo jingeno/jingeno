@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- The yaml document from hell https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell<br/><br/>- Redis is fast - I&#39;ll cache in Postgres https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/<br/><br/>- Why I Keep Business Logic Out of SQL https://ewaldbenes.com/en/blog/why-i-keep-business-logic-out-of-sql<br/><br/>- Decision Log: Why writing down your technical choices is a game-changer read.perspectiveship.com/p/decision-log
-https://read.perspectiveship.com/p/decision-log<br/><br/>- Introducing ChatGPT Pulse https://openai.com/index/introducing-chatgpt-pulse/ #ChatGPT #OpenAI #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Claude Sonnet 4.5 Released https://www.anthropic.com/news/claude-sonnet-4-5 #anthropic #claude #AI<br/><br/>- The yaml document from hell https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell<br/><br/>- Redis is fast - I&#39;ll cache in Postgres https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/<br/><br/>- Why I Keep Business Logic Out of SQL https://ewaldbenes.com/en/blog/why-i-keep-business-logic-out-of-sql<br/><br/>- Decision Log: Why writing down your technical choices is a game-changer read.perspectiveship.com/p/decision-log
+https://read.perspectiveship.com/p/decision-log<br/><br/><!-- BLOG-POST-LIST:END -->
