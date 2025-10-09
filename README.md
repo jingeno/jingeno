@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- <br/><br/>- Introducing CodeMender: an AI agent for code security https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/ #codemender #deepmind<br/><br/>- What GPT-oss Leaks About OpenAI&#39;s Training Data fi-le.net/oss/ #OpenAI #AI
+<!-- BLOG-POST-LIST:START -->- Introducing CodeMender: an AI agent for code security https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/ #codemender #deepmind<br/><br/>- What GPT-oss Leaks About OpenAI&#39;s Training Data fi-le.net/oss/ #OpenAI #AI
 https://fi-le.net/oss/<br/><br/>- Language Agnostic Programming: Why you may still need code https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/<br/><br/>- Why Next.js Falls Short on Software Engineering https://blog.webf.zone/why-next-js-falls-short-on-software-engineering-d3575614bd08<br/><br/><!-- BLOG-POST-LIST:END -->
