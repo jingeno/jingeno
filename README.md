@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Visual Studio 2026 Insiders: Game Changing Features https://www.youtube.com/watch?v=ObyTHWvGvv4 #visualstudio #VS2026<br/><br/>- Introducing the React Foundation: The New Home for React &amp; React Native https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/<br/><br/>- The Debugging Book www.debuggingbook.org
+<!-- BLOG-POST-LIST:START -->- GitHub Copilot CLI: Faster, more concise, and prettier https://github.blog/changelog/2025-10-10-github-copilot-cli-faster-more-concise-and-prettier/ #copilot #AI<br/><br/>- Visual Studio 2026 Insiders: Game Changing Features https://www.youtube.com/watch?v=ObyTHWvGvv4 #visualstudio #VS2026<br/><br/>- Introducing the React Foundation: The New Home for React &amp; React Native https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/<br/><br/>- The Debugging Book www.debuggingbook.org
 https://www.debuggingbook.org/<br/><br/>- VS Code v1.105 &lpar;Sept 2025&rpar; Released code.visualstudio.com/updates/v1_105
-https://code.visualstudio.com/updates/v1_105<br/><br/>- TypeScript 7 native preview in Visual Studio 2026 https://developer.microsoft.com/blog/typescript-7-native-preview-in-visual-studio-2026 #typescript #visualstudio #VS2026<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_105<br/><br/><!-- BLOG-POST-LIST:END -->
