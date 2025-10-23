@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Build Your Own Database www.nan.fyi/database
-https://www.nan.fyi/database<br/><br/>- Claude Code on the web https://www.anthropic.com/news/claude-code-on-the-web #anthropic #clause #AI<br/><br/>- Install &amp; Use Azure MCP Server in VS 2022, VS Code &amp; IntelliJ https://www.youtube.com/watch?v=KfmRel0Fgwg<br/><br/>- How I Almost Got Hacked By A &#39;Job Interview&#39; https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview<br/><br/>- The Great Software Quality Collapse: How We Normalized Catastrophe https://techtrenches.substack.com/p/the-great-software-quality-collapse<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Rethinking CQRS: An Interview on OpenCQRS https://docs.eventsourcingdb.io/blog/2025/10/23/rethinking-cqrs-an-interview-on-opencqrs/ #CQRS<br/><br/>- Build Your Own Database www.nan.fyi/database
+https://www.nan.fyi/database<br/><br/>- Claude Code on the web https://www.anthropic.com/news/claude-code-on-the-web #anthropic #clause #AI<br/><br/>- Install &amp; Use Azure MCP Server in VS 2022, VS Code &amp; IntelliJ https://www.youtube.com/watch?v=KfmRel0Fgwg<br/><br/>- How I Almost Got Hacked By A &#39;Job Interview&#39; https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview<br/><br/><!-- BLOG-POST-LIST:END -->
