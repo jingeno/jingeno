@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- The Great Software Quality Collapse: How We Normalized Catastrophe https://techtrenches.substack.com/p/the-great-software-quality-collapse<br/><br/>- <br/><br/>- GenAI Image Showdown genai-showdown.specr.net #AI
+<!-- BLOG-POST-LIST:START -->- The Great Software Quality Collapse: How We Normalized Catastrophe https://techtrenches.substack.com/p/the-great-software-quality-collapse<br/><br/>- GenAI Image Showdown genai-showdown.specr.net #AI
 https://genai-showdown.specr.net/<br/><br/>- The developer role is evolving. Here’s how to stay ahead. https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/<br/><br/>- Modernizing Authentication for Legacy Visual Studio Clients https://devblogs.microsoft.com/devops/modernizing-authentication-for-legacy-visual-studio-clients/ #visualstudio<br/><br/><!-- BLOG-POST-LIST:END -->
