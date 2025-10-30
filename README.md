@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Extremely fast data compression library github.com/rrrlasse/memlz
-https://github.com/rrrlasse/memlz<br/><br/>- #AI can code, but it can&#39;t build software https://bytesauna.com/post/coding-vs-software-engineering<br/><br/>- Colorblind-Friendly Design Guide for Developing Apps https://github.com/Terryc21/XcodeResources/blob/main/Colorblind_Accessibility_Guide.md<br/><br/>- Why I code as a CTO https://www.assembled.com/blog/why-i-code-as-a-cto<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- The Terrible Technical Architecture of my First Startup https://blog.jacobstechtavern.com/p/my-terrible-startup-architecture<br/><br/>- Extremely fast data compression library github.com/rrrlasse/memlz
+https://github.com/rrrlasse/memlz<br/><br/>- #AI can code, but it can&#39;t build software https://bytesauna.com/post/coding-vs-software-engineering<br/><br/>- <br/><br/>- Colorblind-Friendly Design Guide for Developing Apps https://github.com/Terryc21/XcodeResources/blob/main/Colorblind_Accessibility_Guide.md<br/><br/><!-- BLOG-POST-LIST:END -->
