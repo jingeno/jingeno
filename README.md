@@ -8,6 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Introducing Cursor 2.0 and Composer cursor.com/blog/2-0 #AI
-https://cursor.com/blog/2-0<br/><br/>- Accelerate developer productivity with these 9 open source AI and MCP projects https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/ #MCP #AI<br/><br/>- The Terrible Technical Architecture of my First Startup https://blog.jacobstechtavern.com/p/my-terrible-startup-architecture<br/><br/>- Extremely fast data compression library github.com/rrrlasse/memlz
-https://github.com/rrrlasse/memlz<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Visual Studio 2022 October Update &lpar;v17.14&rpar; – New models, memories, planning, and more https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/ #visualstudio #VS2022<br/><br/>- <br/><br/>- Introducing Cursor 2.0 and Composer cursor.com/blog/2-0 #AI
+https://cursor.com/blog/2-0<br/><br/>- Accelerate developer productivity with these 9 open source AI and MCP projects https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/ #MCP #AI<br/><br/>- The Terrible Technical Architecture of my First Startup https://blog.jacobstechtavern.com/p/my-terrible-startup-architecture<br/><br/><!-- BLOG-POST-LIST:END -->
