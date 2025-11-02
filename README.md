@@ -9,5 +9,5 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Claude Code Can Debug Low-Level Cryptography https://words.filippo.io/claude-debugging/
-https://filippo.io<br/><br/>- Effective Error Handling: A Uniform Strategy for Heterogeneous Distributed Systems https://www.infoq.com/podcasts/uniform-strategy-heterogeneous-distributed-systems/ @infoq<br/><br/>- Visual Studio 2022 October Update &lpar;v17.14&rpar; – New models, memories, planning, and more https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/ #visualstudio #VS2022<br/><br/>- <br/><br/>- Introducing Cursor 2.0 and Composer cursor.com/blog/2-0 #AI
+https://filippo.io<br/><br/>- Effective Error Handling: A Uniform Strategy for Heterogeneous Distributed Systems https://www.infoq.com/podcasts/uniform-strategy-heterogeneous-distributed-systems/ @infoq<br/><br/>- Visual Studio 2022 October Update &lpar;v17.14&rpar; – New models, memories, planning, and more https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/ #visualstudio #VS2022<br/><br/>- Introducing Cursor 2.0 and Composer cursor.com/blog/2-0 #AI
 https://cursor.com/blog/2-0<br/><br/><!-- BLOG-POST-LIST:END -->
