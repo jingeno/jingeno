@@ -9,4 +9,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Tips for stroke-surviving software engineers https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/<br/><br/>- Drowning in AI Code Review Noise? A Framework to Measure Signal vs. Noise https://jetxu-llm.github.io/posts/low-noise-code-review/ #AI<br/><br/>- Repomix - Pack your codebase into AI-friendly formats repomix.com #AI
-https://repomix.com/<br/><br/>- <br/><br/>- The average codebase is now 50% dependencies — is this sustainable? https://www.intel.com/content/www/us/en/developer/articles/guide/the-careful-consumption-of-open-source-software.html?utm_source=chatgpt.com<br/><br/><!-- BLOG-POST-LIST:END -->
+https://repomix.com/<br/><br/>- The average codebase is now 50% dependencies — is this sustainable? https://www.intel.com/content/www/us/en/developer/articles/guide/the-careful-consumption-of-open-source-software.html?utm_source=chatgpt.com<br/><br/><!-- BLOG-POST-LIST:END -->
