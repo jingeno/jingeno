@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- VS Code v1.106 &lpar;October 2025&rpar; Released code.visualstudio.com/updates/v1_106
+<!-- BLOG-POST-LIST:START -->- Announcing .NET 10 https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/ #dotnet<br/><br/>- VS Code v1.106 &lpar;October 2025&rpar; Released code.visualstudio.com/updates/v1_106
 https://code.visualstudio.com/updates/v1_106<br/><br/>- Visual Studio 2026 is now generally available! https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/ #visualstudio #VS2026<br/><br/>- What&#39;s new in .NET 10 https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/overview #dotnet<br/><br/>- The &lpar;lazy&rpar; #Git UI You Didn&#39;t Know You Need www.bwplotka.dev/2025/lazygit/
-https://www.bwplotka.dev/2025/lazygit/<br/><br/>- Software Engineering in Enterprise vs Product Companies https://thehustlingengineer.substack.com/p/software-engineering-in-enterprise?r=yznlc&amp;utm_medium=ios&amp;triedRedirect=true<br/><br/><!-- BLOG-POST-LIST:END -->
+https://www.bwplotka.dev/2025/lazygit/<br/><br/><!-- BLOG-POST-LIST:END -->
