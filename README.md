@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- GPT-5.1: A smarter, more conversational ChatGPT openai.com/index/gpt-5-1/ #OpenAI #ChatGPT #AI
+<!-- BLOG-POST-LIST:START -->- Introducing Copilot auto model selection &lpar;preview&rpar; https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/<br/><br/>- GPT-5.1: A smarter, more conversational ChatGPT openai.com/index/gpt-5-1/ #OpenAI #ChatGPT #AI
 https://openai.com/index/gpt-5-1/<br/><br/>- Unleashing autonomous AI agents: Why Kubernetes needs a new standard for agent execution https://opensource.googleblog.com/2025/11/unleashing-autonomous-ai-agents-why-kubernetes-needs-a-new-standard-for-agent-execution.html<br/><br/>- Announcing .NET 10 https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/ #dotnet<br/><br/>- VS Code v1.106 &lpar;October 2025&rpar; Released code.visualstudio.com/updates/v1_106
-https://code.visualstudio.com/updates/v1_106<br/><br/>- Visual Studio 2026 is now generally available! https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/ #visualstudio #VS2026<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_106<br/><br/><!-- BLOG-POST-LIST:END -->
