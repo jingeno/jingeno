@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- The Root Cause Fallacy: Systems fail for multiple reasons, not one https://read.perspectiveship.com/p/the-root-cause-fallacy<br/><br/>- Infrastructure as Code is a MUST have https://lukasniessen.medium.com/infrastructure-as-code-is-a-must-have-b44acff0813d #IaC<br/><br/>- <br/><br/>- 7 Steps to Make Your OSS Project AI-Ready https://generativeprogrammer.com/p/7-steps-to-make-your-oss-project #OSS #AI<br/><br/>- Programming the Commodore 64 with .NET retroc64.github.io #dotnet
+<!-- BLOG-POST-LIST:START -->- The Root Cause Fallacy: Systems fail for multiple reasons, not one https://read.perspectiveship.com/p/the-root-cause-fallacy<br/><br/>- Infrastructure as Code is a MUST have https://lukasniessen.medium.com/infrastructure-as-code-is-a-must-have-b44acff0813d #IaC<br/><br/>- 7 Steps to Make Your OSS Project AI-Ready https://generativeprogrammer.com/p/7-steps-to-make-your-oss-project #OSS #AI<br/><br/>- Programming the Commodore 64 with .NET retroc64.github.io #dotnet
 https://retroc64.github.io/<br/><br/><!-- BLOG-POST-LIST:END -->
