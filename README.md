@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- #AI World Clocks clocks.brianmoore.com
+<!-- BLOG-POST-LIST:START -->- What if you don&#39;t need MCP at all? https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/ #MCP #AI<br/><br/>- #AI World Clocks clocks.brianmoore.com
 https://brianmoore.com<br/><br/>- Today&#39;s #Cloudflare issues have been largely resolved: www.cloudflarestatus.com
-https://www.cloudflarestatus.com/<br/><br/>- GitHub Copilot CLI 101: How to use GitHub Copilot from the command line https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/ #copilot #AI<br/><br/>- Roadmap for AI in Visual Studio https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november/ #visualstudio #AI<br/><br/>- Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/ #azure #MCP #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://www.cloudflarestatus.com/<br/><br/>- GitHub Copilot CLI 101: How to use GitHub Copilot from the command line https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/ #copilot #AI<br/><br/>- Roadmap for AI in Visual Studio https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november/ #visualstudio #AI<br/><br/><!-- BLOG-POST-LIST:END -->
