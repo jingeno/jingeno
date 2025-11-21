@@ -8,5 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Your AI Pair Programmer Is Not a Person https://www.oreilly.com/radar/your-ai-pair-programmer-is-not-a-person/ #AI<br/><br/>- Introducing Copilot auto model selection &lpar;preview&rpar; https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/ #copilot #visualstudio #AI<br/><br/>- Google releases #CodeWiki for AI-based code documentation codewiki.google #google #gemini #AI
+<!-- BLOG-POST-LIST:START -->- Pareto principle: 20% of your code causes 80% of your bugs &lpar;Microsoft found 1% caused 99% of crashes&rpar; read.perspectiveship.com/p/pareto
+https://read.perspectiveship.com/p/pareto<br/><br/>- Your AI Pair Programmer Is Not a Person https://www.oreilly.com/radar/your-ai-pair-programmer-is-not-a-person/ #AI<br/><br/>- Introducing Copilot auto model selection &lpar;preview&rpar; https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/ #copilot #visualstudio #AI<br/><br/>- Google releases #CodeWiki for AI-based code documentation codewiki.google #google #gemini #AI
 https://codewiki.google/<br/><br/>- Finding duplicated code with tools from your CS course https://purplesyringa.moe/blog/finding-duplicated-code-with-tools-from-your-cs-course/<br/><br/><!-- BLOG-POST-LIST:END -->
