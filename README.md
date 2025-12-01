@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- A Very Fast 64–Bit Date Algorithm www.benjoffe.com/fast-date-64
-https://www.benjoffe.com/fast-date-64<br/><br/>- How many HTTP requests/second can a Single Machine handle? https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html<br/><br/>- Linus Torvalds vs. Ambiguous Abstractions https://read.thecoder.cafe/p/linus-torvalds-ambiguous-abstractions<br/><br/>- Antigravity: More marketing hype than real IDE progress https://visualstudiomagazine.com/articles/2025/11/21/googles-antigravity-ide-sparks-forking-debate.aspx?utm_source=chatgpt.com<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Why Engineers Can&#39;t Be Rational About Programming Languages https://spf13.com/p/the-hidden-conversation/<br/><br/>- A Very Fast 64–Bit Date Algorithm www.benjoffe.com/fast-date-64
+https://www.benjoffe.com/fast-date-64<br/><br/>- How many HTTP requests/second can a Single Machine handle? https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html<br/><br/>- Linus Torvalds vs. Ambiguous Abstractions https://read.thecoder.cafe/p/linus-torvalds-ambiguous-abstractions<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
