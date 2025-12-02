@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- No, LLVM can&#39;t fix your code https://daymare.net/blogs/no-llvm-cant-fix-your-code/<br/><br/>- When AI Goes Wrong https://whenaifail.com/category/ai-coding/ #AI<br/><br/>- Why Engineers Can&#39;t Be Rational About Programming Languages https://spf13.com/p/the-hidden-conversation/<br/><br/>- A Very Fast 64–Bit Date Algorithm www.benjoffe.com/fast-date-64
-https://www.benjoffe.com/fast-date-64<br/><br/>- How many HTTP requests/second can a Single Machine handle? https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Misunderstanding that &quot;Dependency&quot; comic https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html<br/><br/>- No, LLVM can&#39;t fix your code https://daymare.net/blogs/no-llvm-cant-fix-your-code/<br/><br/>- When AI Goes Wrong https://whenaifail.com/category/ai-coding/ #AI<br/><br/>- Why Engineers Can&#39;t Be Rational About Programming Languages https://spf13.com/p/the-hidden-conversation/<br/><br/>- A Very Fast 64–Bit Date Algorithm www.benjoffe.com/fast-date-64
+https://www.benjoffe.com/fast-date-64<br/><br/><!-- BLOG-POST-LIST:END -->
