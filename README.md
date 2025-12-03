@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Leak confirms OpenAI is preparing ads on ChatGPT for public roll out https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/ #OpenAI #ChatGPT #AI<br/><br/>- Advent of Code 2025 adventofcode.com/2025/about
+<!-- BLOG-POST-LIST:START -->- Google CEO Says AI Coding Can Turn Everyone Into a Developer https://www.interviewquery.com/p/ai-coding-vibe-coding-explained #AI<br/><br/>- Leak confirms OpenAI is preparing ads on ChatGPT for public roll out https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/ #OpenAI #ChatGPT #AI<br/><br/>- Advent of Code 2025 adventofcode.com/2025/about
 https://adventofcode.com/2025/about<br/><br/>- Improve how you architect webapps www.patterns.dev
-https://www.patterns.dev/<br/><br/>- Upgrading and Installing Visual Studio 2026 https://www.youtube.com/watch?v=Xhsjcroef_w #visualstudio #VS2026<br/><br/>- Misunderstanding that &quot;Dependency&quot; comic https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html<br/><br/><!-- BLOG-POST-LIST:END -->
+https://www.patterns.dev/<br/><br/>- Upgrading and Installing Visual Studio 2026 https://www.youtube.com/watch?v=Xhsjcroef_w #visualstudio #VS2026<br/><br/><!-- BLOG-POST-LIST:END -->
