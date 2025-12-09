@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Duplication Isn’t Always an Anti-Pattern https://medium.com/@HobokenDays/rethinking-duplication-c1f85f1c0102<br/><br/>- Distributed Systems – A Deep Dive https://newsletter.systemdesign.one/p/distributed-systems<br/><br/>- Distributed Lock Failure: How Long GC Pauses Break Concurrency https://systemdr.substack.com/p/distributed-lock-failure-how-long<br/><br/>- #GitHub Wrapped 2025 www.trygitwrap.com
+<!-- BLOG-POST-LIST:START -->- .NET Day on Agentic Modernization Coming December 9th https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/ #AI #dotnet<br/><br/>- Duplication Isn’t Always an Anti-Pattern https://medium.com/@HobokenDays/rethinking-duplication-c1f85f1c0102<br/><br/>- Distributed Systems – A Deep Dive https://newsletter.systemdesign.one/p/distributed-systems<br/><br/>- Distributed Lock Failure: How Long GC Pauses Break Concurrency https://systemdr.substack.com/p/distributed-lock-failure-how-long<br/><br/>- #GitHub Wrapped 2025 www.trygitwrap.com
 https://www.trygitwrap.com/<br/><br/><!-- BLOG-POST-LIST:END -->
