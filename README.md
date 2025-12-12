@@ -9,5 +9,5 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Improve how you architect webapps www.patterns.dev
-https://www.patterns.dev/<br/><br/>- The End of Debugging https://www.oreilly.com/radar/the-end-of-debugging/<br/><br/>- Streamlining your Git workflow with Visual Studio 2026 https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/ #visualstudio #VS2026<br/><br/>- VS Code v1.1.07 &lpar;November 2025&rpar; Released code.visualstudio.com/updates/v1_107 #vscode
+https://www.patterns.dev/<br/><br/>- The End of Debugging https://www.oreilly.com/radar/the-end-of-debugging/<br/><br/>- <br/><br/>- Streamlining your Git workflow with Visual Studio 2026 https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/ #visualstudio #VS2026<br/><br/>- VS Code v1.1.07 &lpar;November 2025&rpar; Released code.visualstudio.com/updates/v1_107 #vscode
 https://code.visualstudio.com/updates/v1_107<br/><br/><!-- BLOG-POST-LIST:END -->
