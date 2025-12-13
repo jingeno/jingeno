@@ -9,4 +9,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- F-35 Fighter Jet’s C++ Coding Standards https://www.stroustrup.com/JSF-AV-rules.pdf<br/><br/>- The Vibe Coding Landscape: Tools, Gaps, and the Orchestrator Fix https://www.getpullrequest.com/blogs/the-vibe-coding-landscape-tools-gaps-and-the-orchestrator-fix<br/><br/>- Improve how you architect webapps www.patterns.dev
-https://www.patterns.dev/<br/><br/>- The End of Debugging https://www.oreilly.com/radar/the-end-of-debugging/<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
+https://www.patterns.dev/<br/><br/>- The End of Debugging https://www.oreilly.com/radar/the-end-of-debugging/<br/><br/><!-- BLOG-POST-LIST:END -->
