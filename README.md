@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- #AI Can Write Your Code. It Can’t Do Your Job. https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/<br/><br/>- F-35 Fighter Jet’s C++ Coding Standards https://www.stroustrup.com/JSF-AV-rules.pdf<br/><br/>- The Vibe Coding Landscape: Tools, Gaps, and the Orchestrator Fix https://www.getpullrequest.com/blogs/the-vibe-coding-landscape-tools-gaps-and-the-orchestrator-fix<br/><br/>- Improve how you architect webapps www.patterns.dev
-https://www.patterns.dev/<br/><br/>- The End of Debugging https://www.oreilly.com/radar/the-end-of-debugging/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- #Microservices should form a polytree https://bytesauna.com/post/microservices<br/><br/>- #AI Can Write Your Code. It Can’t Do Your Job. https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/<br/><br/>- F-35 Fighter Jet’s C++ Coding Standards https://www.stroustrup.com/JSF-AV-rules.pdf<br/><br/>- The Vibe Coding Landscape: Tools, Gaps, and the Orchestrator Fix https://www.getpullrequest.com/blogs/the-vibe-coding-landscape-tools-gaps-and-the-orchestrator-fix<br/><br/>- Improve how you architect webapps www.patterns.dev
+https://www.patterns.dev/<br/><br/><!-- BLOG-POST-LIST:END -->
