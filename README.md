@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- HTTP caching, a refresher https://danburzo.ro/http-caching-refresher/<br/><br/>- Snitch – a friendly netstat alternative for humans https://github.com/karol-broda/snitch<br/><br/>- AI coding is now everywhere. But not everyone is convinced. https://www.technologyreview.com/2025/12/15/1128352/rise-of-ai-coding-developers-2026/ #AI<br/><br/>- Beginning January 2026, all ACM publications will be made open access dl.acm.org/openaccess #ACM
-https://acm.org<br/><br/>- Measuring AI Ability to Complete Long Tasks https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Software engineering: efficiency vs. effectiveness https://www.youtube.com/watch?v=lqcKquUl3Wk&amp;list=PLVUliVBcvz1l7DKPVcdCqF5VTivnEIPHw<br/><br/>- HTTP caching, a refresher https://danburzo.ro/http-caching-refresher/<br/><br/>- Snitch – a friendly netstat alternative for humans https://github.com/karol-broda/snitch<br/><br/>- AI coding is now everywhere. But not everyone is convinced. https://www.technologyreview.com/2025/12/15/1128352/rise-of-ai-coding-developers-2026/ #AI<br/><br/>- Beginning January 2026, all ACM publications will be made open access dl.acm.org/openaccess #ACM
+https://acm.org<br/><br/><!-- BLOG-POST-LIST:END -->
