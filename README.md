@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- C# Source Generators – Why and How https://www.youtube.com/watch?v=CLTSkEr3wmQ #csharp #dotnet<br/><br/>- .NET 10.0.2 Released https://github.com/dotnet/core/releases/tag/v10.0.2 #dotnet
-https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/<br/><br/>- How Markdown took over the world https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/<br/><br/>- Using WebRTC to launch a debugging terminal into GitHub Actions https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- How a 40-Line Fix Eliminated a 400x Performance Gap https://questdb.com/blog/jvm-current-thread-user-time/<br/><br/>- C# Source Generators – Why and How https://www.youtube.com/watch?v=CLTSkEr3wmQ #csharp #dotnet<br/><br/>- .NET 10.0.2 Released https://github.com/dotnet/core/releases/tag/v10.0.2 #dotnet
+https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/<br/><br/>- <br/><br/>- How Markdown took over the world https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/<br/><br/><!-- BLOG-POST-LIST:END -->
