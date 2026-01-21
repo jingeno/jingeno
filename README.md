@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Why We&#39;ve Tried to Replace Developers Every Decade Since 1969 https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html<br/><br/>- Vibe Coding Debt: The Security Risks of AI-Generated Codebases https://instatunnel.my/blog/vibe-coding-debt-the-security-risks-of-ai-generated-codebases #AI<br/><br/>- We Put Claude Code in Rollercoaster Tycoon labs.ramp.com/rct
-https://ramp.com<br/><br/>- ASCII characters are not pixels: a deep dive into ASCII rendering https://alexharri.com/blog/ascii-rendering<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 10 Breakthrough Technologies in 2026 https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/<br/><br/>- <br/><br/>- Why We&#39;ve Tried to Replace Developers Every Decade Since 1969 https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html<br/><br/>- Vibe Coding Debt: The Security Risks of AI-Generated Codebases https://instatunnel.my/blog/vibe-coding-debt-the-security-risks-of-ai-generated-codebases #AI<br/><br/>- We Put Claude Code in Rollercoaster Tycoon labs.ramp.com/rct
+https://ramp.com<br/><br/><!-- BLOG-POST-LIST:END -->
