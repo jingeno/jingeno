@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- We Put Claude Code in Rollercoaster Tycoon labs.ramp.com/rct
-https://ramp.com<br/><br/>- ASCII characters are not pixels: a deep dive into ASCII rendering https://alexharri.com/blog/ascii-rendering<br/><br/>- YAML? That’s Norway problem https://lab174.com/blog/202601-yaml-norway/<br/><br/>- Design Systems for Software Engineers https://newsletter.pragmaticengineer.com/p/design-systems-for-software-engineers<br/><br/>- Cursor&#39;s latest &quot;browser experiment&quot; implied success without evidence https://embedding-shapes.github.io/cursor-implied-success-without-evidence/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Why We&#39;ve Tried to Replace Developers Every Decade Since 1969 https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html<br/><br/>- Vibe Coding Debt: The Security Risks of AI-Generated Codebases https://instatunnel.my/blog/vibe-coding-debt-the-security-risks-of-ai-generated-codebases #AI<br/><br/>- We Put Claude Code in Rollercoaster Tycoon labs.ramp.com/rct
+https://ramp.com<br/><br/>- ASCII characters are not pixels: a deep dive into ASCII rendering https://alexharri.com/blog/ascii-rendering<br/><br/>- YAML? That’s Norway problem https://lab174.com/blog/202601-yaml-norway/<br/><br/><!-- BLOG-POST-LIST:END -->
