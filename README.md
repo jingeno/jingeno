@@ -9,4 +9,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Claude&#39;s new constitution https://www.anthropic.com/news/claude-new-constitution #anthropic #claude #AI<br/><br/>- A hacker is making a list of vibecoded apps: 198 scanned, 196 with vulnerabilities firehound.covertlabs.io
-https://firehound.covertlabs.io/<br/><br/>- Catching API regressions with snapshot testing https://kreya.app/blog/api-snapshot-testing/<br/><br/>- Claude Chill: Fix Claude Code&#39;s Flickering in Terminal https://github.com/davidbeesley/claude-chill #claude #anthropic #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://firehound.covertlabs.io/<br/><br/>- Catching API regressions with snapshot testing https://kreya.app/blog/api-snapshot-testing/<br/><br/>- Claude Chill: Fix Claude Code&#39;s Flickering in Terminal https://github.com/davidbeesley/claude-chill #claude #anthropic #AI<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
