@@ -9,5 +9,5 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Top AI Coding Topics &amp; Trends for 2026 beyond.addy.ie/2026-trends/ #AI
-https://beyond.addy.ie/2026-trends/<br/><br/>- #Clawdbot — Personal AI Assistant https://github.com/clawdbot/clawdbot #AI<br/><br/>- <br/><br/>- Connection Exhaustion in High-Traffic Systems https://systemdr.substack.com/p/connection-exhaustion-in-high-traffic?utm_source=share&amp;utm_medium=android&amp;r=5bgzxg&amp;triedRedirect=true<br/><br/>- Shared Claude: A website controlled by the public sharedclaude.com #claude #AI
+https://beyond.addy.ie/2026-trends/<br/><br/>- #Clawdbot — Personal AI Assistant https://github.com/clawdbot/clawdbot #AI<br/><br/>- Connection Exhaustion in High-Traffic Systems https://systemdr.substack.com/p/connection-exhaustion-in-high-traffic?utm_source=share&amp;utm_medium=android&amp;r=5bgzxg&amp;triedRedirect=true<br/><br/>- Shared Claude: A website controlled by the public sharedclaude.com #claude #AI
 https://sharedclaude.com<br/><br/><!-- BLOG-POST-LIST:END -->
