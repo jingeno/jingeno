@@ -9,4 +9,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- How I estimate work as a staff software engineer https://www.seangoedecke.com/how-i-estimate-work/<br/><br/>- The Age of Pump and Dump Software https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b<br/><br/>- Top AI Coding Topics &amp; Trends for 2026 beyond.addy.ie/2026-trends/ #AI
-https://beyond.addy.ie/2026-trends/<br/><br/>- #Clawdbot — Personal AI Assistant https://github.com/clawdbot/clawdbot #AI<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
+https://beyond.addy.ie/2026-trends/<br/><br/>- #Clawdbot — Personal AI Assistant https://github.com/clawdbot/clawdbot #AI<br/><br/><!-- BLOG-POST-LIST:END -->
