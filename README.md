@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- The Hardest Bugs Exist Only in Organizational Charts https://techyall.com/blog/the-hardest-bugs-exist-only-in-organizational-charts<br/><br/>- How AI Impacts Skill Formation arxiv.org/abs/2601.20245 #AI
-https://arxiv.org/abs/2601.20245<br/><br/>- The Most Important Code Is the Code No One Owns https://techyall.com/blog/the-most-important-code-is-the-code-no-one-owns<br/><br/>- The 80% Problem in Agentic Coding https://addyo.substack.com/p/the-80-problem-in-agentic-coding #AI<br/><br/>- Egoless Programming: Greatest Hits https://www.blundergoat.com/articles/egoless-programming-greatest-hits<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Startup Software Architecture - You Never Really Throw It Away https://www.infoq.com/podcasts/startup-software-architecture/<br/><br/>- The Hardest Bugs Exist Only in Organizational Charts https://techyall.com/blog/the-hardest-bugs-exist-only-in-organizational-charts<br/><br/>- How AI Impacts Skill Formation arxiv.org/abs/2601.20245 #AI
+https://arxiv.org/abs/2601.20245<br/><br/>- The Most Important Code Is the Code No One Owns https://techyall.com/blog/the-most-important-code-is-the-code-no-one-owns<br/><br/>- The 80% Problem in Agentic Coding https://addyo.substack.com/p/the-80-problem-in-agentic-coding #AI<br/><br/><!-- BLOG-POST-LIST:END -->
