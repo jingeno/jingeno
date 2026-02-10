@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Claude Composer https://www.josh.ing/blog/claude-composer<br/><br/>- How To Build CRUD APIs Using .NET Minimal API + EF Core | No Controllers https://www.youtube.com/watch?v=qV-lKUIfQ3g #dotnet<br/><br/>- The purpose of Continuous Integration is to fail https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail
+<!-- BLOG-POST-LIST:START -->- Memory Prices Surge Up to 90% From Q4 2025 https://counterpointresearch.com/en/insights/Memory-Prices-Surge-Up-to-90-From-Q4-2025<br/><br/>- Claude Composer https://www.josh.ing/blog/claude-composer<br/><br/>- How To Build CRUD APIs Using .NET Minimal API + EF Core | No Controllers https://www.youtube.com/watch?v=qV-lKUIfQ3g #dotnet<br/><br/>- The purpose of Continuous Integration is to fail https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail
 https://www.youtube.com/watch?v=ly-GM3aYgfQ&amp;t=1s<br/><br/>- &quot;I&#39;m tired of trying to make vibe coding work for me&quot; https://www.youtube.com/watch?v=ly-GM3aYgfQ #AI
-https://www.youtube.com/watch?v=ly-GM3aYgfQ&amp;t=1s<br/><br/>- 7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/ #csharp #typescript #dotnet<br/><br/><!-- BLOG-POST-LIST:END -->
+https://www.youtube.com/watch?v=ly-GM3aYgfQ&amp;t=1s<br/><br/><!-- BLOG-POST-LIST:END -->
