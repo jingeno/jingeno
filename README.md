@@ -8,5 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- We deserve a better streams API for JavaScript https://blog.cloudflare.com/a-better-web-streams-api/ #javascript<br/><br/>- Delete your CLAUDE.md &lpar;and your AGENT.md too&rpar; https://www.youtube.com/watch?v=GcNu6wrLTJc #AI
-https://CLAUDE.md<br/><br/>- The React Foundation: A New Home for React Hosted by the Linux Foundation https://react.dev/blog/2026/02/24/the-react-foundation #react<br/><br/>- How I made a shooter game in 64 KB https://www.youtube.com/watch?v=qht68vFaa1M<br/><br/>- AI &quot;Vibe Coding&quot; Threatens Open Source as Maintainers Face Crisis https://www.infoq.com/news/2026/02/ai-floods-close-projects/ #opensource #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Making MCP cheaper via CLI https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html #MCP #AI<br/><br/>- Claude Code Remote Control https://code.claude.com/docs/en/remote-control #anthropic #claude #AI
+https://claude.com<br/><br/>- We deserve a better streams API for JavaScript https://blog.cloudflare.com/a-better-web-streams-api/ #javascript<br/><br/>- Delete your CLAUDE.md &lpar;and your AGENT.md too&rpar; https://www.youtube.com/watch?v=GcNu6wrLTJc #AI
+https://CLAUDE.md<br/><br/>- The React Foundation: A New Home for React Hosted by the Linux Foundation https://react.dev/blog/2026/02/24/the-react-foundation #react<br/><br/><!-- BLOG-POST-LIST:END -->
