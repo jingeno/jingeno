@@ -8,6 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- #Ghostty - Cross-platform terminal emulator ghostty.org
-https://ghostty.org/<br/><br/>- Custom Agents in Visual Studio: Built in and Build-Your-Own agents https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/ #visualstudio #AI<br/><br/>- Making MCP cheaper via CLI https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html #MCP #AI<br/><br/>- Claude Code Remote Control https://code.claude.com/docs/en/remote-control #anthropic #claude #AI
-https://claude.com<br/><br/>- We deserve a better streams API for JavaScript https://blog.cloudflare.com/a-better-web-streams-api/ #javascript<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Custom Agents in Visual Studio: Built in and Build-Your-Own agents https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/ #visualstudio<br/><br/>- WebMCP is available for early preview https://developer.chrome.com/blog/webmcp-epp #WebMCP #MCP #AI<br/><br/>- #Ghostty - Cross-platform terminal emulator ghostty.org
+https://ghostty.org/<br/><br/>- Custom Agents in Visual Studio: Built in and Build-Your-Own agents https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/ #visualstudio #AI<br/><br/>- Making MCP cheaper via CLI https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html #MCP #AI<br/><br/><!-- BLOG-POST-LIST:END -->
