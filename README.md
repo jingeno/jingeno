@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- RE#: how we built the world&#39;s fastest regex engine in F# https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/ #regex #fsharp<br/><br/>- VS Code v1.110 &lpar;February 2026&rpar; Released code.visualstudio.com/updates/v1_110  #vscode
-https://code.visualstudio.com/updates/v1_110<br/><br/>- Nobody Gets Promoted for Simplicity https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/<br/><br/>- Custom Agents in Visual Studio: Built in and Build-Your-Own agents https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/ #visualstudio<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- To be a better programmer, write little proofs in your head https://blog.get-nerve.com/to-be-a-better-programmer-write-little-proofs-in-your-head/<br/><br/>- <br/><br/>- RE#: how we built the world&#39;s fastest regex engine in F# https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/ #regex #fsharp<br/><br/>- VS Code v1.110 &lpar;February 2026&rpar; Released code.visualstudio.com/updates/v1_110  #vscode
+https://code.visualstudio.com/updates/v1_110<br/><br/>- Nobody Gets Promoted for Simplicity https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/<br/><br/><!-- BLOG-POST-LIST:END -->
