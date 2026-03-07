@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Introducing GPT‑5.4 https://openai.com/index/introducing-gpt-5-4/ #OpenAI #AI<br/><br/>- GPT‑5.3 Instant: Smoother, more useful everyday conversations https://openai.com/index/gpt-5-3-instant/ #OpenAI #AI<br/><br/>- Free Anthropic #AI Courses anthropic.skilljar.com
-https://anthropic.skilljar.com/<br/><br/>- Software engineers should be a little bit cynical https://www.seangoedecke.com/a-little-bit-cynical/<br/><br/>- AI Isn&#39;t Replacing SREs. It&#39;s Deskilling Them. https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more https://github.com/googleworkspace/cli<br/><br/>- Introducing GPT‑5.4 https://openai.com/index/introducing-gpt-5-4/ #OpenAI #AI<br/><br/>- GPT‑5.3 Instant: Smoother, more useful everyday conversations https://openai.com/index/gpt-5-3-instant/ #OpenAI #AI<br/><br/>- Free Anthropic #AI Courses anthropic.skilljar.com
+https://anthropic.skilljar.com/<br/><br/>- Software engineers should be a little bit cynical https://www.seangoedecke.com/a-little-bit-cynical/<br/><br/><!-- BLOG-POST-LIST:END -->
