@@ -8,5 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- I was interviewed by an AI bot for a job https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job #AI<br/><br/>- Visual Studio 2026 March Release https://www.youtube.com/live/U1gsUcCHagc #visualstudio #VS2026<br/><br/>- Can I Run AI locally? www.canirun.ai #AI
-https://www.canirun.ai/<br/><br/>- Choosing the Right SQL Static Analyzer for Your Stack https://makroumi.hashnode.dev/sqlfluff-vs-squawk-vs-slowql-choosing-the-right-sql-static-analyzer-for-your-stack #sql<br/><br/>- Temporal: The 9-Year Journey to Fix Time in JavaScript https://bloomberg.github.io/js-blog/post/temporal/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- <br/><br/>- Anthropic is doubling Claude&#39;s usage limits during off-peak hours for the next two weeks https://www.engadget.com/ai/anthropic-is-doubling-claudes-usage-limits-during-off-peak-hours-for-the-next-two-weeks-163645928.html #anthropic #claude #AI<br/><br/>- I was interviewed by an AI bot for a job https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job #AI<br/><br/>- Visual Studio 2026 March Release https://www.youtube.com/live/U1gsUcCHagc #visualstudio #VS2026<br/><br/>- Can I Run AI locally? www.canirun.ai #AI
+https://www.canirun.ai/<br/><br/><!-- BLOG-POST-LIST:END -->
