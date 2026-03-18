@@ -8,4 +8,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Why are Event-Driven Systems Hard? https://newsletter.scalablethread.com/p/why-event-driven-systems-are-hard<br/><br/>- The rise of malicious repositories on #GitHub https://rushter.com/blog/github-malware/<br/><br/>- Database Sharding https://planetscale.com/blog/database-sharding<br/><br/>- Securing our codebase with autonomous agents https://cursor.com/blog/security-agents #cursor #AI<br/><br/>- LLM Architecture Gallery https://sebastianraschka.com/llm-architecture-gallery/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.112 Released code.visualstudio.com/updates/v1_112 #vscode
+https://code.visualstudio.com/updates/v1_112<br/><br/>- Why are Event-Driven Systems Hard? https://newsletter.scalablethread.com/p/why-event-driven-systems-are-hard<br/><br/>- The rise of malicious repositories on #GitHub https://rushter.com/blog/github-malware/<br/><br/>- Database Sharding https://planetscale.com/blog/database-sharding<br/><br/>- Securing our codebase with autonomous agents https://cursor.com/blog/security-agents #cursor #AI<br/><br/><!-- BLOG-POST-LIST:END -->
