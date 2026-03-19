@@ -8,6 +8,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- “You’re absolutely right!&quot; An Allegory for Agentic Coding https://wiredsis.medium.com/youre-absolutely-right-2f4281e0f950 #AI<br/><br/>- A sufficiently detailed spec is code https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code<br/><br/>- MS Build 2026 &lpar;June 2-3&rpar; - Register: build.microsoft.com #dotnet #MSBuild
+<!-- BLOG-POST-LIST:START -->- Modernize .NET Anywhere with GitHub Copilot https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/ #dotnet #AI<br/><br/>- “You’re absolutely right!&quot; An Allegory for Agentic Coding https://wiredsis.medium.com/youre-absolutely-right-2f4281e0f950 #AI<br/><br/>- A sufficiently detailed spec is code https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code<br/><br/>- MS Build 2026 &lpar;June 2-3&rpar; - Register: build.microsoft.com #dotnet #MSBuild
 https://build.microsoft.com/<br/><br/>- Visual Studio Code 1.112 Released code.visualstudio.com/updates/v1_112 #vscode
-https://code.visualstudio.com/updates/v1_112<br/><br/>- Why are Event-Driven Systems Hard? https://newsletter.scalablethread.com/p/why-event-driven-systems-are-hard<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_112<br/><br/><!-- BLOG-POST-LIST:END -->
