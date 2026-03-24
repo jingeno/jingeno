@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- <br/><br/>- Reports of code&#39;s death are greatly exaggerated stevekrouse.com/precision
+<!-- BLOG-POST-LIST:START -->- Reports of code&#39;s death are greatly exaggerated stevekrouse.com/precision
 https://stevekrouse.com/precision<br/><br/>- AI Is Amplifying Software Engineering Performance, Says the 2025 DORA Report https://www.infoq.com/news/2026/03/ai-dora-report/ #AI<br/><br/>- Beyond Code Review https://www.oreilly.com/radar/beyond-code-review/<br/><br/>- 60 million Copilot code reviews and counting https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/ #copilot #AI<br/><br/><!-- BLOG-POST-LIST:END -->
