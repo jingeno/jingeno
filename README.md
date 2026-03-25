@@ -10,4 +10,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Concurrency Controls : Pessimistic vs Optimistic https://pradyumnachippigiri.substack.com/p/concurrency-controls-pessimistic<br/><br/>- Announcing TypeScript 6.0 https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/ #typescript<br/><br/>- Software dev job postings are up 15% since mid 2025 https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE<br/><br/>- Claude Code Cheat Sheet cc.storyfox.cz #anthropic #claude #AI
-https://cc.storyfox.cz/<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
+https://cc.storyfox.cz/<br/><br/><!-- BLOG-POST-LIST:END -->
