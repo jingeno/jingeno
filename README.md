@@ -9,4 +9,4 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Anatomy of the .claude/ Folder https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder #claude #AI<br/><br/>- #OpenTelemetry Profiles Enters Public Alpha https://opentelemetry.io/blog/2026/profiles-alpha/<br/><br/>- The Mythical Agent-Month https://www.oreilly.com/radar/the-mythical-agent-month/ #AI<br/><br/>- 10 New Visual Studio Extensions from Mads https://www.youtube.com/watch?v=5v1aB-bq3a8 #visualstudio<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Custom Agents in Visual Studio: Built in and Build-Your-Own agents<br/><br/>- Anatomy of the .claude/ Folder https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder #claude #AI<br/><br/>- #OpenTelemetry Profiles Enters Public Alpha https://opentelemetry.io/blog/2026/profiles-alpha/<br/><br/>- <br/><br/>- The Mythical Agent-Month https://www.oreilly.com/radar/the-mythical-agent-month/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
