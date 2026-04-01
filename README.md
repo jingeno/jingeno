@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Good Code Will Still Win https://www.greptile.com/blog/ai-slopware-future<br/><br/>- Learn Claude Code by doing, not reading. claude.nagdy.me #claude #AI
-https://claude.nagdy.me/<br/><br/>- Shell Tricks That Actually Make Life Easier &lpar;And Save Your Sanity&rpar; https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/<br/><br/>- I Decompiled the White House&#39;s New App https://blog.thereallo.dev/blog/decompiling-the-white-house-app<br/><br/>- How a Trip to the Movies Turned Into a System Design Session https://medium.com/@lightsoul/how-a-trip-to-the-movies-turned-into-a-system-design-session-542915c6aaab<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- AI Agents Could Make Free Software Matter Again<br/><br/>- Good Code Will Still Win https://www.greptile.com/blog/ai-slopware-future<br/><br/>- Learn Claude Code by doing, not reading. claude.nagdy.me #claude #AI
+https://claude.nagdy.me/<br/><br/>- Shell Tricks That Actually Make Life Easier &lpar;And Save Your Sanity&rpar; https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/<br/><br/>- I Decompiled the White House&#39;s New App https://blog.thereallo.dev/blog/decompiling-the-white-house-app<br/><br/><!-- BLOG-POST-LIST:END -->
