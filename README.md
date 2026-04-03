@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- <br/><br/>- How I accidentally made the fastest C# CSV parser https://bepis.io/blog/turbo-csv-parser/ #csv #csharp #dotnet<br/><br/>- API Client Migration: From Postman to Bruno https://www.dotkernel.com/dotkernel-api/api-client-migration-from-postman-to-bruno/<br/><br/>- The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/ #claude #AI<br/><br/>- Visual Studio Code 1.114 Released code.visualstudio.com/updates/v1_114 #vscode
+<!-- BLOG-POST-LIST:START -->- How I accidentally made the fastest C# CSV parser https://bepis.io/blog/turbo-csv-parser/ #csv #csharp #dotnet<br/><br/>- API Client Migration: From Postman to Bruno https://www.dotkernel.com/dotkernel-api/api-client-migration-from-postman-to-bruno/<br/><br/>- The Claude Code Source Leak: fake tools, frustration regexes, undercover mode, and more https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/ #claude #AI<br/><br/>- Visual Studio Code 1.114 Released code.visualstudio.com/updates/v1_114 #vscode
 https://code.visualstudio.com/updates/v1_114<br/><br/><!-- BLOG-POST-LIST:END -->
