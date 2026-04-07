@@ -9,6 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Claude Code Unpacked - A Visual Guide ccunpacked.dev #claude #AI
-https://ccunpacked.dev/<br/><br/>- Biggest Breakthroughs in Computer Science: 2025 https://www.youtube.com/watch?v=DFwppvrL_pE<br/><br/>- #OpenClaw: The complete guide to building, training, and living with your personal AI agent https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building/ #AI<br/><br/>- Domain-Driven Design: Lean Aggregates https://deniskyashif.com/2026/04/04/domain-driven-design-lean-aggregates/ #DDD<br/><br/>- Cursor 3 cursor.com/blog/cursor-3
-https://cursor.com/blog/cursor-3<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Agentic development aspirations: build, run, observe — without more Markdown https://devblogs.microsoft.com/aspire/agentic-dev-aspirations/ #AI<br/><br/>- Claude Code Unpacked - A Visual Guide ccunpacked.dev #claude #AI
+https://ccunpacked.dev/<br/><br/>- Biggest Breakthroughs in Computer Science: 2025 https://www.youtube.com/watch?v=DFwppvrL_pE<br/><br/>- #OpenClaw: The complete guide to building, training, and living with your personal AI agent https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building/ #AI<br/><br/>- Domain-Driven Design: Lean Aggregates https://deniskyashif.com/2026/04/04/domain-driven-design-lean-aggregates/ #DDD<br/><br/><!-- BLOG-POST-LIST:END -->
