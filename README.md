@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Claude Code Tutorial for Beginners https://www.youtube.com/watch?v=3HVH2Iuplqo #claude #AI
+<!-- BLOG-POST-LIST:START -->- Claude Managed Agents: get to production 10x faster https://claude.com/blog/claude-managed-agents #claude #AI<br/><br/>- Claude Code Tutorial for Beginners https://www.youtube.com/watch?v=3HVH2Iuplqo #claude #AI
 https://devblogs.microsoft.com/aspire/agentic-dev-aspirations/<br/><br/>- Agentic development aspirations: build, run, observe — without more Markdown https://devblogs.microsoft.com/aspire/agentic-dev-aspirations/ #AI<br/><br/>- Claude Code Unpacked - A Visual Guide ccunpacked.dev #claude #AI
-https://ccunpacked.dev/<br/><br/>- Biggest Breakthroughs in Computer Science: 2025 https://www.youtube.com/watch?v=DFwppvrL_pE<br/><br/>- #OpenClaw: The complete guide to building, training, and living with your personal AI agent https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://ccunpacked.dev/<br/><br/>- Biggest Breakthroughs in Computer Science: 2025 https://www.youtube.com/watch?v=DFwppvrL_pE<br/><br/><!-- BLOG-POST-LIST:END -->
