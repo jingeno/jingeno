@@ -9,7 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.115 Released code.visualstudio.com/updates/v1_115 #vscode
+<!-- BLOG-POST-LIST:START -->- Fake It Until You Break It: The End Of Non-Technical Managers In Software Engineering Dawns https://medium.com/@jankammerath/fake-it-until-you-break-it-the-end-of-non-technical-managers-in-software-engineering-dawns-271f42b66f39<br/><br/>- Visual Studio Code 1.115 Released code.visualstudio.com/updates/v1_115 #vscode
 https://code.visualstudio.com/updates/v1_115<br/><br/>- Explore union types in C# 15 https://devblogs.microsoft.com/dotnet/csharp-15-union-types/ #csharp #dotnet<br/><br/>- ASPNET Core 2.3 end of support announcement https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/ #aspnet #dotnet
-https://ASP.NET<br/><br/>- Claude Managed Agents: get to production 10x faster https://claude.com/blog/claude-managed-agents #claude #AI<br/><br/>- Claude Code Tutorial for Beginners https://www.youtube.com/watch?v=3HVH2Iuplqo #claude #AI
-https://devblogs.microsoft.com/aspire/agentic-dev-aspirations/<br/><br/><!-- BLOG-POST-LIST:END -->
+https://ASP.NET<br/><br/>- Claude Managed Agents: get to production 10x faster https://claude.com/blog/claude-managed-agents #claude #AI<br/><br/><!-- BLOG-POST-LIST:END -->
