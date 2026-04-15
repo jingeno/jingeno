@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.116 Released code.visualstudio.com/updates/v1_116 #vscode
-https://code.visualstudio.com/updates/v1_116<br/><br/>- Anti-patterns in event modelling - Passive-Aggressive Events https://event-driven.io/en/passive_aggressive_events/<br/><br/>- I Still Prefer MCP Over Skills https://david.coffee/i-still-prefer-mcp-over-skills/ #MCP #AI<br/><br/>- How We Broke Top AI Agent Benchmarks: And What Comes Next https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Send a Program, Not a Data Structure https://krishna.github.io/posts/send-a-program-not-a-datastructure/<br/><br/>- Visual Studio Code 1.116 Released code.visualstudio.com/updates/v1_116 #vscode
+https://code.visualstudio.com/updates/v1_116<br/><br/>- Anti-patterns in event modelling - Passive-Aggressive Events https://event-driven.io/en/passive_aggressive_events/<br/><br/>- <br/><br/>- I Still Prefer MCP Over Skills https://david.coffee/i-still-prefer-mcp-over-skills/ #MCP #AI<br/><br/><!-- BLOG-POST-LIST:END -->
