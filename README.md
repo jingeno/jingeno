@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Copilot CLI vs VS Code: When I Use Each https://golnazroughcut.com/posts/copilot-cli-vs-vscode #AI<br/><br/>- #Linux Kernel 7.0 Released, This Is What’s New https://linuxiac.com/linux-kernel-7-0-released/<br/><br/>- Send a Program, Not a Data Structure https://krishna.github.io/posts/send-a-program-not-a-datastructure/<br/><br/>- Visual Studio Code 1.116 Released code.visualstudio.com/updates/v1_116 #vscode
-https://code.visualstudio.com/updates/v1_116<br/><br/>- Anti-patterns in event modelling - Passive-Aggressive Events https://event-driven.io/en/passive_aggressive_events/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Who will be the senior engineers of 2035? https://theengineeringmanager.substack.com/p/who-will-be-the-senior-engineers<br/><br/>- Copilot CLI vs VS Code: When I Use Each https://golnazroughcut.com/posts/copilot-cli-vs-vscode #AI<br/><br/>- #Linux Kernel 7.0 Released, This Is What’s New https://linuxiac.com/linux-kernel-7-0-released/<br/><br/>- Send a Program, Not a Data Structure https://krishna.github.io/posts/send-a-program-not-a-datastructure/<br/><br/>- Visual Studio Code 1.116 Released code.visualstudio.com/updates/v1_116 #vscode
+https://code.visualstudio.com/updates/v1_116<br/><br/><!-- BLOG-POST-LIST:END -->
