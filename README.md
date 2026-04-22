@@ -9,5 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.117  Released code.visualstudio.com/updates/v1_117 #vscode
-https://code.visualstudio.com/updates/v1_117<br/><br/>- Vibe Coding in Production: How Anthropic Uses AI to Write Code https://www.youtube.com/watch?v=78EYLieMpvc #AI<br/><br/>- Changes to GitHub Copilot Individual plans https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/ #AI<br/><br/>- Modern Frontend Complexity: essential or accidental? https://binaryigor.com/modern-frontend-complexity.html<br/><br/>- How The Heck Does #Shazam Work? https://perthirtysix.com/how-the-heck-does-shazam-work<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Laws of Software Engineering lawsofsoftwareengineering.com
+https://lawsofsoftwareengineering.com/<br/><br/>- Visual Studio Code 1.117  Released code.visualstudio.com/updates/v1_117 #vscode
+https://code.visualstudio.com/updates/v1_117<br/><br/>- Vibe Coding in Production: How Anthropic Uses AI to Write Code https://www.youtube.com/watch?v=78EYLieMpvc #AI<br/><br/>- Changes to GitHub Copilot Individual plans https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/ #AI<br/><br/>- Modern Frontend Complexity: essential or accidental? https://binaryigor.com/modern-frontend-complexity.html<br/><br/><!-- BLOG-POST-LIST:END -->
