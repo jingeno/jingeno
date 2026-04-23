@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Laws of Software Engineering lawsofsoftwareengineering.com
+<!-- BLOG-POST-LIST:START -->- Announcing TypeScript 7.0 Beta https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/ #javascript #typescript #typescriptlang<br/><br/>- #Git 2.54 Released https://github.blog/open-source/git/highlights-from-git-2-54/<br/><br/>- Laws of Software Engineering lawsofsoftwareengineering.com
 https://lawsofsoftwareengineering.com/<br/><br/>- Visual Studio Code 1.117  Released code.visualstudio.com/updates/v1_117 #vscode
-https://code.visualstudio.com/updates/v1_117<br/><br/>- Vibe Coding in Production: How Anthropic Uses AI to Write Code https://www.youtube.com/watch?v=78EYLieMpvc #AI<br/><br/>- Changes to GitHub Copilot Individual plans https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/ #AI<br/><br/>- Modern Frontend Complexity: essential or accidental? https://binaryigor.com/modern-frontend-complexity.html<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_117<br/><br/>- Vibe Coding in Production: How Anthropic Uses AI to Write Code https://www.youtube.com/watch?v=78EYLieMpvc #AI<br/><br/><!-- BLOG-POST-LIST:END -->
