@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- How The Heck Does #Shazam Work? https://perthirtysix.com/how-the-heck-does-shazam-work<br/><br/>- OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’ https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/ #OpenAI #AI
+<!-- BLOG-POST-LIST:START -->- How good engineers write bad code at big companies https://www.seangoedecke.com/bad-code-at-big-companies/<br/><br/>- How The Heck Does #Shazam Work? https://perthirtysix.com/how-the-heck-does-shazam-work<br/><br/>- OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’ https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/ #OpenAI #AI
 https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/?utm_campaign=social&amp;utm_source=linkedin&amp;utm_medium=organic<br/><br/>- How to Use PostgreSQL as a Cache, Queue, and Search Engine https://www.freecodecamp.org/news/how-to-use-postgresql-as-a-cache-queue-and-search-engine/ #PostgreSQL #Postgres<br/><br/>- What is Pub/Sub? An interactive study of publish/subscribe messaging encore.dev/blog/pubsub
-https://encore.dev/blog/pubsub<br/><br/>- AWS Announces General Availability of DevOps Agent for Automated Incident Investigation https://www.infoq.com/news/2026/04/aws-devops-agent-ga/ #AWS #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://encore.dev/blog/pubsub<br/><br/><!-- BLOG-POST-LIST:END -->
