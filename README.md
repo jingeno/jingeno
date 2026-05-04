@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Copy Fail: an exploit for all Linux distributions since 2017 copy.fail #linux
-https://copy.fail/<br/><br/>- AI Agent Designed To Speed Up Company&#39;s Coding Wipes Entire Database In 9 Seconds https://www.livescience.com/technology/artificial-intelligence/i-violated-every-principle-i-was-given-ai-agent-deletes-companys-entire-database-in-9-seconds-then-confesses #AI<br/><br/>- Microsoft open-sources “the earliest DOS source code discovered to date”<br/><br/>- Good developers learn to program. Most courses teach a language. https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Modernizing .NET Applications Faster with Visual Studio and Copilot https://www.youtube.com/watch?v=6JK2FRJD1v8 #visualstudio #copilot #dotnet #AI<br/><br/>- Copy Fail: an exploit for all Linux distributions since 2017 copy.fail #linux
+https://copy.fail/<br/><br/>- AI Agent Designed To Speed Up Company&#39;s Coding Wipes Entire Database In 9 Seconds https://www.livescience.com/technology/artificial-intelligence/i-violated-every-principle-i-was-given-ai-agent-deletes-companys-entire-database-in-9-seconds-then-confesses #AI<br/><br/>- Microsoft open-sources “the earliest DOS source code discovered to date”<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
