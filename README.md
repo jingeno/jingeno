@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Be careful with your Git: Investigating malware spreading through Git repositories https://andrii.ro/blog/investigating-malware #git<br/><br/>- Teaching Claude why https://www.anthropic.com/research/teaching-claude-why #claude #AI<br/><br/>- Running local models on an M4 with 24GB memory https://jola.dev/posts/running-local-models-on-m4 #AI<br/><br/>- Ratty – A terminal emulator with inline 3D graphics ratty-term.org
-https://ratty-term.org<br/><br/>- Gemini API File Search is now multimodal: build efficient, verifiable RAG https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/ #gemini #RAG #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- .NET 11 Preview 4 Released https://github.com/dotnet/core/blob/main/release-notes/11.0/preview/preview4/README.md #dotnet<br/><br/>- Be careful with your Git: Investigating malware spreading through Git repositories https://andrii.ro/blog/investigating-malware #git<br/><br/>- Teaching Claude why https://www.anthropic.com/research/teaching-claude-why #claude #AI<br/><br/>- Running local models on an M4 with 24GB memory https://jola.dev/posts/running-local-models-on-m4 #AI<br/><br/>- Ratty – A terminal emulator with inline 3D graphics ratty-term.org
+https://ratty-term.org<br/><br/><!-- BLOG-POST-LIST:END -->
