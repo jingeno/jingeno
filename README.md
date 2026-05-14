@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.120 Released - See What&#39;s New code.visualstudio.com/updates/v1_120 #vscode
+<!-- BLOG-POST-LIST:START -->- A History of IDEs at Google https://laurent.le-brun.eu/blog/a-history-of-ides-at-google #google<br/><br/>- Visual Studio Code 1.120 Released - See What&#39;s New code.visualstudio.com/updates/v1_120 #vscode
 https://code.visualstudio.com/updates/v1_120<br/><br/>- If AI Writes Your Code, Why Use Python? https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 #python #AI<br/><br/>- How exposed is your code? Find out in minutes—for free https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/ #github<br/><br/>- 7 lines of code, 3 minutes: Implement a programming language from scratch https://matt.might.net/articles/implementing-a-programming-language/<br/><br/><!-- BLOG-POST-LIST:END -->
