@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Every AI Subscription Is a Ticking Time Bomb for Enterprise https://www.thestateofbrand.com/news/ai-subscription-time-bomb #AI<br/><br/>- Decision Trees mlu-explain.github.io/decision-tree/
+<!-- BLOG-POST-LIST:START -->- Integrating AI Into Apache Kafka Architectures: Patterns and Best Practices https://www.confluent.io/blog/ai-kafka-integration-patterns/ #kafka #AI<br/><br/>- Every AI Subscription Is a Ticking Time Bomb for Enterprise https://www.thestateofbrand.com/news/ai-subscription-time-bomb #AI<br/><br/>- <br/><br/>- Decision Trees mlu-explain.github.io/decision-tree/
 https://mlu-explain.github.io/decision-tree/<br/><br/>- Google I/O 2026 Starts Tomorrow &lpar;May 19th&rpar; - Register: io.google/2026/  #GoogleIO
-https://io.google/2026/<br/><br/>- Moving away from Tailwind, and learning to structure my CSS https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/<br/><br/><!-- BLOG-POST-LIST:END -->
+https://io.google/2026/<br/><br/><!-- BLOG-POST-LIST:END -->
