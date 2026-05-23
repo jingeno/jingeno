@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- <br/><br/>- How Container Registries Work: Pushing and Pulling Images By Hand https://labs.iximiuz.com/tutorials/container-registry-from-scratch<br/><br/>- Senior Claude Reviewer Is Not a Good Use of Engineering Talent https://www.photoroom.com/inside-photoroom/senior-claude-reviewer-is-not-a-good-use-of-engineering-talent #AI<br/><br/>- Prompt Engineering Guide www.promptingguide.ai #AI
+<!-- BLOG-POST-LIST:START -->- How Container Registries Work: Pushing and Pulling Images By Hand https://labs.iximiuz.com/tutorials/container-registry-from-scratch<br/><br/>- Senior Claude Reviewer Is Not a Good Use of Engineering Talent https://www.photoroom.com/inside-photoroom/senior-claude-reviewer-is-not-a-good-use-of-engineering-talent #AI<br/><br/>- Prompt Engineering Guide www.promptingguide.ai #AI
 https://www.promptingguide.ai/<br/><br/>- The Virtual OS Museum virtualosmuseum.org
 https://virtualosmuseum.org/<br/><br/><!-- BLOG-POST-LIST:END -->
