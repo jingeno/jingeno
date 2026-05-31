@@ -9,4 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Claude Opus 4.8 Released https://www.anthropic.com/news/claude-opus-4-8 #anthropic #claude #AI<br/><br/>- WebAssembly on Kubernetes https://www.youtube.com/watch?v=fMpDgsjBQzg<br/><br/>- Using AI to write better code more slowly https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ #AI<br/><br/>- The Database Zoo: Exotic Data Storage Engines - why SQL and NoSQL aren&#39;t enough anymore https://blog.gaborkoos.com/posts/2025-09-19-The-Database-Zoo-Exotic-Data-Storage-Engines/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Fire, forget, sleep. VS Code agents that run without you https://build.microsoft.com/en-US/sessions/LTG404 #vscode #AI
+https://build.microsoft.com/en-US/sessions/LTG404?wt.mc_ID=msbuild26_gmee_corp_np_scl_All_VS_Code_CH<br/><br/>- Claude Opus 4.8 Released https://www.anthropic.com/news/claude-opus-4-8 #anthropic #claude #AI<br/><br/>- WebAssembly on Kubernetes https://www.youtube.com/watch?v=fMpDgsjBQzg<br/><br/>- <br/><br/>- Using AI to write better code more slowly https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
