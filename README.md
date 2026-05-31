@@ -10,4 +10,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Elliptical Python Programming https://susam.net/elliptical-python-programming.html #python<br/><br/>- Fire, forget, sleep. VS Code agents that run without you https://build.microsoft.com/en-US/sessions/LTG404 #vscode #AI
-https://build.microsoft.com/en-US/sessions/LTG404?wt.mc_ID=msbuild26_gmee_corp_np_scl_All_VS_Code_CH<br/><br/>- Claude Opus 4.8 Released https://www.anthropic.com/news/claude-opus-4-8 #anthropic #claude #AI<br/><br/>- WebAssembly on Kubernetes https://www.youtube.com/watch?v=fMpDgsjBQzg<br/><br/><!-- BLOG-POST-LIST:END -->
+https://build.microsoft.com/en-US/sessions/LTG404?wt.mc_ID=msbuild26_gmee_corp_np_scl_All_VS_Code_CH<br/><br/>- Claude Opus 4.8 Released https://www.anthropic.com/news/claude-opus-4-8 #anthropic #claude #AI<br/><br/>- WebAssembly on Kubernetes https://www.youtube.com/watch?v=fMpDgsjBQzg<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
