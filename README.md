@@ -9,4 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- The AI Agents Stack &lpar;2026 Edition&rpar; https://www.oreilly.com/radar/the-ai-agents-stack-2026-edition/ #AI<br/><br/>- Long-Running Agents https://www.oreilly.com/radar/long-running-agents/ #AI<br/><br/>- Claude Fable 5 and Claude Mythos 5 https://www.anthropic.com/news/claude-fable-5-mythos-5 #anthropic #claude #AI<br/><br/>- Announcing Redis 8.8: New array data structure, rate limiter, performance improvements, &amp; more https://redis.io/blog/announcing-redis-8-8/ #redis<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 7 More Common Mistakes in Architecture Diagrams https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/<br/><br/>- Visual Studio Code 1.124 Released code.visualstudio.com/updates/v1_124 #vscode
+https://code.visualstudio.com/updates/v1_124<br/><br/>- Loop Engineering https://addyosmani.com/blog/loop-engineering/ #AI<br/><br/>- The AI Agents Stack &lpar;2026 Edition&rpar; https://www.oreilly.com/radar/the-ai-agents-stack-2026-edition/ #AI<br/><br/>- Long-Running Agents https://www.oreilly.com/radar/long-running-agents/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
