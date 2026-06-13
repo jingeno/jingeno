@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Cache Stampede Prevention: Distributed Locking, Pub/Sub, and Request Coalescing https://engineeringatscale.substack.com/p/cache-stampede-distributed-locking<br/><br/>- 7 More Common Mistakes in Architecture Diagrams https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/<br/><br/>- Visual Studio Code 1.124 Released code.visualstudio.com/updates/v1_124 #vscode
-https://code.visualstudio.com/updates/v1_124<br/><br/>- Loop Engineering https://addyosmani.com/blog/loop-engineering/ #AI<br/><br/>- The AI Agents Stack &lpar;2026 Edition&rpar; https://www.oreilly.com/radar/the-ai-agents-stack-2026-edition/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- <br/><br/>- Cache Stampede Prevention: Distributed Locking, Pub/Sub, and Request Coalescing https://engineeringatscale.substack.com/p/cache-stampede-distributed-locking<br/><br/>- 7 More Common Mistakes in Architecture Diagrams https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/<br/><br/>- Visual Studio Code 1.124 Released code.visualstudio.com/updates/v1_124 #vscode
+https://code.visualstudio.com/updates/v1_124<br/><br/>- Loop Engineering https://addyosmani.com/blog/loop-engineering/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
