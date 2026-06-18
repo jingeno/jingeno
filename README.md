@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Lore – Open source version control system designed for scalability lore.org
+<!-- BLOG-POST-LIST:START -->- A Robot is Sprinting Towards You: Do You Want it Running on Claude or Grok? https://openrouter.ai/blog/insights/royale-last-agent-standing/ #AI<br/><br/>- Lore – Open source version control system designed for scalability lore.org
 https://lore.org<br/><br/>- GitHub Copilot app generally available https://github.blog/changelog/2026-06-17-github-copilot-app-generally-available/ #github #copilot #AI<br/><br/>- Visual Studio Code 1.125 Released - See What&#39;s New code.visualstudio.com/updates/v1_125 #vscode
-https://code.visualstudio.com/updates/v1_125<br/><br/>- Don&#39;t run SQL migrations in tests: How I sped up the test suite by 2x https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html<br/><br/>- Why is Meta destroying its engineering organization? https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_125<br/><br/>- Don&#39;t run SQL migrations in tests: How I sped up the test suite by 2x https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html<br/><br/><!-- BLOG-POST-LIST:END -->
