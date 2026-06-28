@@ -9,4 +9,4 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- System Design for Beginners https://www.youtube.com/watch?v=BAVrwcPDa-k<br/><br/>- Agentic Code Review https://www.oreilly.com/radar/agentic-code-review/ #AI<br/><br/>- Deno Desktop https://docs.deno.com/runtime/desktop/<br/><br/>- How to Write an Effective Software Design Document https://refactoringenglish.com/excerpts/write-an-effective-design-doc/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- System Design for Beginners https://www.youtube.com/watch?v=BAVrwcPDa-k<br/><br/>- <br/><br/>- Agentic Code Review https://www.oreilly.com/radar/agentic-code-review/ #AI<br/><br/>- Deno Desktop https://docs.deno.com/runtime/desktop/<br/><br/>- How to Write an Effective Software Design Document https://refactoringenglish.com/excerpts/write-an-effective-design-doc/<br/><br/><!-- BLOG-POST-LIST:END -->
