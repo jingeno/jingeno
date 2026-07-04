@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- <br/><br/>- The Rise of the Command Line: building a new IDE &lpar;2017–2026&rpar; https://rune.build/blog/the-rise-of-the-command-line<br/><br/>- #GitHub Stacked PRs github.github.com/gh-stack/
+<!-- BLOG-POST-LIST:START -->- The Rise of the Command Line: building a new IDE &lpar;2017–2026&rpar; https://rune.build/blog/the-rise-of-the-command-line<br/><br/>- #GitHub Stacked PRs github.github.com/gh-stack/
 https://github.github.com/gh-stack/<br/><br/>- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/ #dotnet<br/><br/>- Visual Studio Code 1.127 Released code.visualstudio.com/updates/v1_127 #vscode
 https://code.visualstudio.com/updates/v1_127<br/><br/><!-- BLOG-POST-LIST:END -->
