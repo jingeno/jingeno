@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Claude Design System Prompt https://github.com/Trystan-SA/claude-design-system-prompt #claude #AI<br/><br/>- Why Great Software Starts with Architecture, Not Features https://amjakes.substack.com/p/building-skyline-computer-world-why<br/><br/>- The Rise of the Command Line: building a new IDE &lpar;2017–2026&rpar; https://rune.build/blog/the-rise-of-the-command-line<br/><br/>- #GitHub Stacked PRs github.github.com/gh-stack/
+<!-- BLOG-POST-LIST:START -->- Claude Design System Prompt https://github.com/Trystan-SA/claude-design-system-prompt #claude #AI<br/><br/>- Why Great Software Starts with Architecture, Not Features https://amjakes.substack.com/p/building-skyline-computer-world-why<br/><br/>- <br/><br/>- The Rise of the Command Line: building a new IDE &lpar;2017–2026&rpar; https://rune.build/blog/the-rise-of-the-command-line<br/><br/>- #GitHub Stacked PRs github.github.com/gh-stack/
 https://github.github.com/gh-stack/<br/><br/><!-- BLOG-POST-LIST:END -->
