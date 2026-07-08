@@ -9,5 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Drunk Post: Things I’ve Learned as a Senior Engineer https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as<br/><br/>- #OpenPrinter www.opentools.studio #opentools
-https://www.opentools.studio/<br/><br/>- Addition by subtraction in software design https://www.architecture-weekly.com/p/addition-by-subtraction-in-software<br/><br/>- Apple Container - Tool that you can use to create and run Linux containers https://github.com/apple/container #apple #linux<br/><br/>- Claude FM 🎵 - Music for thinking and building &lpar;can also be launched with /radio in Claude Code&rpar; https://www.youtube.com/watch?v=tRsQsTMvPNg #claude #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Slopfix - Refactors vibecoded codebases back to maintainability odra.dev/slopfix/
+https://odra.dev/slopfix/<br/><br/>- Drunk Post: Things I’ve Learned as a Senior Engineer https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as<br/><br/>- #OpenPrinter www.opentools.studio #opentools
+https://www.opentools.studio/<br/><br/>- Addition by subtraction in software design https://www.architecture-weekly.com/p/addition-by-subtraction-in-software<br/><br/>- Apple Container - Tool that you can use to create and run Linux containers https://github.com/apple/container #apple #linux<br/><br/><!-- BLOG-POST-LIST:END -->
