@@ -9,7 +9,8 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Notes on software quality anthonyhobday.com/blog/20260410
+<!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.128 Released code.visualstudio.com/updates/v1_128 #vscode
+https://code.visualstudio.com/updates/v1_128<br/><br/>- Notes on software quality anthonyhobday.com/blog/20260410
 https://anthonyhobday.com/blog/20260410<br/><br/>- Slopfix - Refactors vibecoded codebases back to maintainability odra.dev/slopfix/
 https://odra.dev/slopfix/<br/><br/>- Drunk Post: Things I’ve Learned as a Senior Engineer https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as<br/><br/>- #OpenPrinter www.opentools.studio #opentools
-https://www.opentools.studio/<br/><br/>- Addition by subtraction in software design https://www.architecture-weekly.com/p/addition-by-subtraction-in-software<br/><br/><!-- BLOG-POST-LIST:END -->
+https://www.opentools.studio/<br/><br/><!-- BLOG-POST-LIST:END -->
