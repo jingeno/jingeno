@@ -9,7 +9,7 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Why developers are ditching GitHub for Codeberg and self-hosting alternatives https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/<br/><br/>- Visual Studio Code 1.128 Released code.visualstudio.com/updates/v1_128 #vscode
+<!-- BLOG-POST-LIST:START -->- Why AI Coding Agents Still Need Clear Specs https://www.oreilly.com/radar/why-ai-coding-agents-still-need-clear-specs/ #AI<br/><br/>- Why developers are ditching GitHub for Codeberg and self-hosting alternatives https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/<br/><br/>- Visual Studio Code 1.128 Released code.visualstudio.com/updates/v1_128 #vscode
 https://code.visualstudio.com/updates/v1_128<br/><br/>- Notes on software quality anthonyhobday.com/blog/20260410
 https://anthonyhobday.com/blog/20260410<br/><br/>- Slopfix - Refactors vibecoded codebases back to maintainability odra.dev/slopfix/
-https://odra.dev/slopfix/<br/><br/>- Drunk Post: Things I’ve Learned as a Senior Engineer https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as<br/><br/><!-- BLOG-POST-LIST:END -->
+https://odra.dev/slopfix/<br/><br/><!-- BLOG-POST-LIST:END -->
