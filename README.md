@@ -9,4 +9,4 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- An Agent in 100 Lines of Lisp https://thebeach.dev/posts/lisp-agent/ #AI<br/><br/>- The git history command deserves more attention https://lalitm.com/post/git-history/ #git<br/><br/>- Zero-Code Validations in Your .NET API https://www.kalandra.tech/blog/zero-code-validations-in-your-dotnet-api/ #dotnet<br/><br/>- <br/><br/>- .NET 8.0.29 Released https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.29/8.0.29.md #dotnet<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- An Agent in 100 Lines of Lisp https://thebeach.dev/posts/lisp-agent/ #AI<br/><br/>- The git history command deserves more attention https://lalitm.com/post/git-history/ #git<br/><br/>- Zero-Code Validations in Your .NET API https://www.kalandra.tech/blog/zero-code-validations-in-your-dotnet-api/ #dotnet<br/><br/>- .NET 8.0.29 Released https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.29/8.0.29.md #dotnet<br/><br/><!-- BLOG-POST-LIST:END -->
