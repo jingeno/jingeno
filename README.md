@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Codex Resets codex-resets.com #codex #AI
-https://codex-resets.com/<br/><br/>- Harness Engineering https://github.com/lopopolo/harness-engineering #AI<br/><br/>- 6 security settings every GitHub maintainer should enable this week https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/<br/><br/>- How I tricked Claude into leaking your deepest, darkest secrets https://www.ayush.digital/blog/the-memory-heist #claude #AI<br/><br/>- $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Threading on Thin Ice: Demystifying the .NET ThreadPool and avoiding starvation https://itnext.io/threading-on-thin-ice-demystifying-the-net-threadpool-and-avoiding-starvation-ef520da711b7 #dotnet<br/><br/>- Codex Resets codex-resets.com #codex #AI
+https://codex-resets.com/<br/><br/>- Harness Engineering https://github.com/lopopolo/harness-engineering #AI<br/><br/>- 6 security settings every GitHub maintainer should enable this week https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/<br/><br/>- How I tricked Claude into leaking your deepest, darkest secrets https://www.ayush.digital/blog/the-memory-heist #claude #AI<br/><br/><!-- BLOG-POST-LIST:END -->
