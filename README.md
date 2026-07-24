@@ -9,6 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Jelly UI: Soft-body physics for native HTML form controls jelly-ui.com
-https://jelly-ui.com<br/><br/>- #GigaToken: ~1000x faster Language model tokenization https://github.com/marcelroed/gigatoken/ #AI<br/><br/>- Your JS Date Is Lying to You https://blog.gaborkoos.com/posts/2026-07-21-Your-JS-Date-Is-Lying-to-You/ #javascript<br/><br/>- Stop Overengineering Your Agent Harness https://www.oreilly.com/radar/stop-overengineering-your-agent-harness/ #AI<br/><br/>- Visual Studio Code 1.130 Released code.visualstudio.com/updates/v1_130 #vscode
-https://code.visualstudio.com/updates/v1_130<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- AI Companies Are Trying to Hide a Staggering Amount of Debt https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet #AI<br/><br/>- Jelly UI: Soft-body physics for native HTML form controls jelly-ui.com
+https://jelly-ui.com<br/><br/>- #GigaToken: ~1000x faster Language model tokenization https://github.com/marcelroed/gigatoken/ #AI<br/><br/>- Your JS Date Is Lying to You https://blog.gaborkoos.com/posts/2026-07-21-Your-JS-Date-Is-Lying-to-You/ #javascript<br/><br/>- Stop Overengineering Your Agent Harness https://www.oreilly.com/radar/stop-overengineering-your-agent-harness/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
