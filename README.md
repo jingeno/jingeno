@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Pushing and Pulling: Three Reactivity Algorithms https://jonathan-frere.com/posts/reactivity-algorithms/<br/><br/>- The Arguments Against Open Source AI are Very Bad https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ #AI<br/><br/>- AI Companies Are Trying to Hide a Staggering Amount of Debt https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet #AI<br/><br/>- Jelly UI: Soft-body physics for native HTML form controls jelly-ui.com
-https://jelly-ui.com<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- #PostgreSQL Extension Catalog pgext.cloud
+https://pgext.cloud/<br/><br/>- <br/><br/>- Pushing and Pulling: Three Reactivity Algorithms https://jonathan-frere.com/posts/reactivity-algorithms/<br/><br/>- The Arguments Against Open Source AI are Very Bad https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ #AI<br/><br/>- AI Companies Are Trying to Hide a Staggering Amount of Debt https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet #AI<br/><br/><!-- BLOG-POST-LIST:END -->
