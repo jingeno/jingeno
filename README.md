@@ -11,4 +11,4 @@
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Comparison of Models: Intelligence, Performance &amp; Price Analysis artificialanalysis.ai/models #AI
 https://artificialanalysis.ai/models<br/><br/>- #PostgreSQL Extension Catalog pgext.cloud
-https://pgext.cloud/<br/><br/>- <br/><br/>- Pushing and Pulling: Three Reactivity Algorithms https://jonathan-frere.com/posts/reactivity-algorithms/<br/><br/>- The Arguments Against Open Source AI are Very Bad https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://pgext.cloud/<br/><br/>- Pushing and Pulling: Three Reactivity Algorithms https://jonathan-frere.com/posts/reactivity-algorithms/<br/><br/>- The Arguments Against Open Source AI are Very Bad https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
