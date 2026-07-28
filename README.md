@@ -12,4 +12,4 @@
 <!-- BLOG-POST-LIST:START -->- Claude Cookbook platform.claude.com/cookbook/ #claude #AI
 https://platform.claude.com/cookbook/<br/><br/>- Why Software Factories Fail https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md<br/><br/>- Comparison of Models: Intelligence, Performance &amp; Price Analysis artificialanalysis.ai/models #AI
 https://artificialanalysis.ai/models<br/><br/>- #PostgreSQL Extension Catalog pgext.cloud
-https://pgext.cloud/<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
+https://pgext.cloud/<br/><br/><!-- BLOG-POST-LIST:END -->
