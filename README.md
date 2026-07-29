@@ -9,7 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Claude Cookbook platform.claude.com/cookbook/ #claude #AI
+<!-- BLOG-POST-LIST:START -->- AI Demands More Engineering Discipline, Not Less https://www.oreilly.com/radar/ai-demands-more-engineering-discipline-not-less/ #AI<br/><br/>- A shell colon does nothing. Use it anyway. https://refp.se/articles/your-shell-and-the-magic-colon<br/><br/>- Claude Cookbook platform.claude.com/cookbook/ #claude #AI
 https://platform.claude.com/cookbook/<br/><br/>- Why Software Factories Fail https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md<br/><br/>- Comparison of Models: Intelligence, Performance &amp; Price Analysis artificialanalysis.ai/models #AI
-https://artificialanalysis.ai/models<br/><br/>- #PostgreSQL Extension Catalog pgext.cloud
-https://pgext.cloud/<br/><br/><!-- BLOG-POST-LIST:END -->
+https://artificialanalysis.ai/models<br/><br/><!-- BLOG-POST-LIST:END -->
