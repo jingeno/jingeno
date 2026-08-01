@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Hacker Public Radio hackerpublicradio.org
-https://hackerpublicradio.org/<br/><br/>- Goodhart’s Law Comes for Every Benchmark You Trust https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/<br/><br/>- Codex Security https://github.com/openai/codex-security #codex #OpenAI #AI<br/><br/>- Fixing bugs in Event Sourcing is hard, for real? https://www.architecture-weekly.com/p/fixing-bugs-in-event-sourcing-is<br/><br/>- Stacked pull requests are now in public preview https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ #github<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- <br/><br/>- Hacker Public Radio hackerpublicradio.org
+https://hackerpublicradio.org/<br/><br/>- Goodhart’s Law Comes for Every Benchmark You Trust https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/<br/><br/>- Codex Security https://github.com/openai/codex-security #codex #OpenAI #AI<br/><br/>- Fixing bugs in Event Sourcing is hard, for real? https://www.architecture-weekly.com/p/fixing-bugs-in-event-sourcing-is<br/><br/><!-- BLOG-POST-LIST:END -->
