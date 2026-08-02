@@ -10,5 +10,5 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- #Cloudflare Internal DNS is now generally available blog.cloudflare.com/internal-dns/
-https://blog.cloudflare.com/internal-dns/<br/><br/>- The Bedrock of Software Design https://alex.draftist.io/blog/the-bedrock-of-software-design-ycqvcedsj<br/><br/>- Advancing the price-performance frontier with GPT‑5.6 https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ #OpenAI #AI<br/><br/>- <br/><br/>- Hacker Public Radio hackerpublicradio.org
+https://blog.cloudflare.com/internal-dns/<br/><br/>- The Bedrock of Software Design https://alex.draftist.io/blog/the-bedrock-of-software-design-ycqvcedsj<br/><br/>- Advancing the price-performance frontier with GPT‑5.6 https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ #OpenAI #AI<br/><br/>- Hacker Public Radio hackerpublicradio.org
 https://hackerpublicradio.org/<br/><br/><!-- BLOG-POST-LIST:END -->
