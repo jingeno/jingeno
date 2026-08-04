@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- The Productivity Mirage frantic.im/mirage/
-https://frantic.im/mirage/<br/><br/>- The AI Aesthetic https://blog.jim-nielsen.com/2026/ai-aesthetic/ #AI<br/><br/>- Progressive Web Components https://arielsalminen.com/2026/progressive-web-components/<br/><br/>- Google fixed more Chrome bugs in June than over the past two years, thanks to AI https://blog.google/security/chrome-stronger-with-every-update/ #google #chrome #AI<br/><br/>- Rethinking Data: Moving From the Traditional Three-Tier Web Stack to Client-Side Event Sourcing https://www.infoq.com/podcasts/rethinking-data-client-event-sourcing/ #infoq<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Every byte matters https://fzakaria.com/2026/06/01/every-byte-matters<br/><br/>- The Productivity Mirage frantic.im/mirage/
+https://frantic.im/mirage/<br/><br/>- The AI Aesthetic https://blog.jim-nielsen.com/2026/ai-aesthetic/ #AI<br/><br/>- Progressive Web Components https://arielsalminen.com/2026/progressive-web-components/<br/><br/>- Google fixed more Chrome bugs in June than over the past two years, thanks to AI https://blog.google/security/chrome-stronger-with-every-update/ #google #chrome #AI<br/><br/><!-- BLOG-POST-LIST:END -->
