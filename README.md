@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Why “It Depends” Is the Most Future-Proof Phrase in Software https://www.oreilly.com/radar/why-it-depends-is-the-most-future-proof-phrase-in-software/<br/><br/>- Visual Studio Code 1.133 Released code.visualstudio.com/updates/v1_133 #vscode
-https://code.visualstudio.com/updates/v1_133<br/><br/>- How Claude marks AI-generated content https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content #anthropic #claude #AI<br/><br/>- 5 CSS Properties You Should Know for Better Text Designs https://master.dev/blog/typographic-css-tricks/ #CSS<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Mastering FrozenDictionary in .NET 10 https://dotnetdigest.com/mastering-frozendictionary-in-net-10 #dotnet<br/><br/>- The fastest double-to-string algorithm you’ve never heard of https://vitaut.net/posts/2026/yy-dtoa/<br/><br/>- Why “It Depends” Is the Most Future-Proof Phrase in Software https://www.oreilly.com/radar/why-it-depends-is-the-most-future-proof-phrase-in-software/<br/><br/>- Visual Studio Code 1.133 Released code.visualstudio.com/updates/v1_133 #vscode
+https://code.visualstudio.com/updates/v1_133<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
