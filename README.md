@@ -10,4 +10,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Mastering FrozenDictionary in .NET 10 https://dotnetdigest.com/mastering-frozendictionary-in-net-10 #dotnet<br/><br/>- The fastest double-to-string algorithm you’ve never heard of https://vitaut.net/posts/2026/yy-dtoa/<br/><br/>- Why “It Depends” Is the Most Future-Proof Phrase in Software https://www.oreilly.com/radar/why-it-depends-is-the-most-future-proof-phrase-in-software/<br/><br/>- Visual Studio Code 1.133 Released code.visualstudio.com/updates/v1_133 #vscode
-https://code.visualstudio.com/updates/v1_133<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_133<br/><br/><!-- BLOG-POST-LIST:END -->
