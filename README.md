@@ -9,4 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- MCP: When to Use It &lpar;And When You Shouldn&#39;t&rpar; https://www.youtube.com/watch?v=_VXcDKI7JvA #MCP #AI<br/><br/>- Bridge Pattern in TypeScript: Real-World Example and Use Cases https://chiristo.dev/blog/bridge-pattern #typescript #typescriptlang<br/><br/>- A faster algorithm to calculate the day of the week https://www.benjoffe.com/fast-day-of-week<br/><br/>- When AI Writes the Code, Specifications Need an Exit Strategy https://www.oreilly.com/radar/when-ai-writes-the-code-specifications-need-an-exit-strategy/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Tiny, open, native coding agent fx.sh
+https://fx.sh/<br/><br/>- MCP: When to Use It &lpar;And When You Shouldn&#39;t&rpar; https://www.youtube.com/watch?v=_VXcDKI7JvA #MCP #AI<br/><br/>- Bridge Pattern in TypeScript: Real-World Example and Use Cases https://chiristo.dev/blog/bridge-pattern #typescript #typescriptlang<br/><br/>- <br/><br/>- A faster algorithm to calculate the day of the week https://www.benjoffe.com/fast-day-of-week<br/><br/><!-- BLOG-POST-LIST:END -->
