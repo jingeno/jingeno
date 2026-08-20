@@ -11,4 +11,4 @@
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- AI usage patterns in software teams linear.app/data #AI
 https://linear.app/data<br/><br/>- Tiny, open, native coding agent fx.sh
-https://fx.sh/<br/><br/>- MCP: When to Use It &lpar;And When You Shouldn&#39;t&rpar; https://www.youtube.com/watch?v=_VXcDKI7JvA #MCP #AI<br/><br/>- Bridge Pattern in TypeScript: Real-World Example and Use Cases https://chiristo.dev/blog/bridge-pattern #typescript #typescriptlang<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
+https://fx.sh/<br/><br/>- MCP: When to Use It &lpar;And When You Shouldn&#39;t&rpar; https://www.youtube.com/watch?v=_VXcDKI7JvA #MCP #AI<br/><br/>- Bridge Pattern in TypeScript: Real-World Example and Use Cases https://chiristo.dev/blog/bridge-pattern #typescript #typescriptlang<br/><br/><!-- BLOG-POST-LIST:END -->
