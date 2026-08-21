@@ -11,6 +11,6 @@
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Go 1.27 is released go.dev/blog/go1.27 #golang
 https://go.dev/blog/go1.27<br/><br/>- Visual Studio Code 1.134 Released - See What&#39;s New code.visualstudio.com/updates/v1_134 #vscode
-https://code.visualstudio.com/updates/v1_134<br/><br/>- <br/><br/>- AI usage patterns in software teams linear.app/data #AI
+https://code.visualstudio.com/updates/v1_134<br/><br/>- AI usage patterns in software teams linear.app/data #AI
 https://linear.app/data<br/><br/>- Tiny, open, native coding agent fx.sh
 https://fx.sh/<br/><br/><!-- BLOG-POST-LIST:END -->
