@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- What 6 months of AI coding did to my dev team https://www.youtube.com/watch?v=h0hdaHPKDdI<br/><br/>- Pitfalls of Benchmarking on Modern Systems https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/<br/><br/>- Go 1.27 is released go.dev/blog/go1.27 #golang
+<!-- BLOG-POST-LIST:START -->- A Preview of DuckDB v2.0 https://duckdb.org/2026/08/17/duckdb-20-highlights #duckdb<br/><br/>- What 6 months of AI coding did to my dev team https://www.youtube.com/watch?v=h0hdaHPKDdI<br/><br/>- Pitfalls of Benchmarking on Modern Systems https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/<br/><br/>- Go 1.27 is released go.dev/blog/go1.27 #golang
 https://go.dev/blog/go1.27<br/><br/>- Visual Studio Code 1.134 Released - See What&#39;s New code.visualstudio.com/updates/v1_134 #vscode
 https://code.visualstudio.com/updates/v1_134<br/><br/><!-- BLOG-POST-LIST:END -->
