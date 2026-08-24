@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- #OpenLogi - A local-first alternative to Logitech Options+, written in Rust openlogi.org
-https://openlogi.org/<br/><br/>- A Preview of DuckDB v2.0 https://duckdb.org/2026/08/17/duckdb-20-highlights #duckdb<br/><br/>- What 6 months of AI coding did to my dev team https://www.youtube.com/watch?v=h0hdaHPKDdI<br/><br/>- Pitfalls of Benchmarking on Modern Systems https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Building an &lpar;almost&rpar; fully self-hosted, sandboxed, agentic software factory https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/ #AI<br/><br/>- #OpenLogi - A local-first alternative to Logitech Options+, written in Rust openlogi.org
+https://openlogi.org/<br/><br/>- <br/><br/>- A Preview of DuckDB v2.0 https://duckdb.org/2026/08/17/duckdb-20-highlights #duckdb<br/><br/>- What 6 months of AI coding did to my dev team https://www.youtube.com/watch?v=h0hdaHPKDdI<br/><br/><!-- BLOG-POST-LIST:END -->
