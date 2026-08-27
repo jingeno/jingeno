@@ -9,5 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.135 Released - See What&#39;s New code.visualstudio.com/updates/v1_135  #vscode
-https://code.visualstudio.com/updates/v1_135<br/><br/>- Visual Hallucinations in LLMs https://cacm.acm.org/news/visual-hallucinations-in-llms/<br/><br/>- #Git at any scale https://cursor.com/blog/git-at-any-scale<br/><br/>- Embedding models benchmark for code duplication detection https://rkochanowski.com/article/embedding-benchmark/ #AI<br/><br/>- Modern Computer Architecture &amp; Organization https://www.youtube.com/watch?v=u7k1l_qkQH8<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Munder Difflin – Agent harness to run an office of your clones munderdiffl.in #AI
+https://munderdiffl.in/<br/><br/>- Visual Studio Code 1.135 Released - See What&#39;s New code.visualstudio.com/updates/v1_135  #vscode
+https://code.visualstudio.com/updates/v1_135<br/><br/>- Visual Hallucinations in LLMs https://cacm.acm.org/news/visual-hallucinations-in-llms/<br/><br/>- #Git at any scale https://cursor.com/blog/git-at-any-scale<br/><br/>- Embedding models benchmark for code duplication detection https://rkochanowski.com/article/embedding-benchmark/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
