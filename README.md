@@ -9,6 +9,4 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Coding a database proxy for fun https://packagemain.tech/p/golang-database-proxy<br/><br/>- Reverse Engineering Unknown File Formats with ImHex https://werwolv.net/posts/file_format_reverse_engineering/<br/><br/>- The Hugging Face Incident Is Not an AI Story https://uphack.io/blog/post/the-hugging-face-incident-is-not-an-ai-story/ #AI<br/><br/>- Do you agree?
-
-Please, I beg you, we need to stop using Stored Procedures &lpar;from applications&rpar; https://heffree.dev/blog/no-more-sprocs.html<br/><br/>- p99 0 ms* autocomplete for 240 million domain names https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 35 years later, Torvalds&#39; hobby project remains developed worldwide https://tech.yahoo.com/computing/articles/35-years-later-torvalds-hobby-130000907.html #linux<br/><br/>- <br/><br/>- Coding a database proxy for fun https://packagemain.tech/p/golang-database-proxy<br/><br/>- Reverse Engineering Unknown File Formats with ImHex https://werwolv.net/posts/file_format_reverse_engineering/<br/><br/>- The Hugging Face Incident Is Not an AI Story https://uphack.io/blog/post/the-hugging-face-incident-is-not-an-ai-story/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
