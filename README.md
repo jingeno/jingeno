@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Branch‑Avoidant Programming https://easylang.online/blog/branchless<br/><br/>- Visual Studio Code 1.136 Released - See What&#39;s New code.visualstudio.com/updates/v1_136 #vscode
-https://code.visualstudio.com/updates/v1_136<br/><br/>- Keenable SELECT, an agent that searches the web in SQL https://keenableai.github.io/select-showcase/ #AI<br/><br/>- Performance of WebAssembly runtimes in 2026 https://00f.net/2026/06/23/webassembly-runtimes-2026/ #webassembly #wasm<br/><br/>- Terminating elegantly: a guide to graceful shutdowns https://packagemain.tech/p/graceful-shutdowns-k8s-go<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Beyond Lambdas: Raising the Abstraction Level of Functional Code https://adamtornhill.substack.com/p/beyond-lambdas-raising-the-abstraction<br/><br/>- Postgres Calculations and the Ambiguity of NULL https://www.crunchydata.com/blog/postgres-calculations-and-the-ambiguity-of-null #postgres<br/><br/>- Branch‑Avoidant Programming https://easylang.online/blog/branchless<br/><br/>- Visual Studio Code 1.136 Released - See What&#39;s New code.visualstudio.com/updates/v1_136 #vscode
+https://code.visualstudio.com/updates/v1_136<br/><br/>- Keenable SELECT, an agent that searches the web in SQL https://keenableai.github.io/select-showcase/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
