@@ -10,4 +10,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Which tools do Claude Code, Codex and Cursor choose? We measured 16,893 sessions to find out. https://armature.tech/blog/which-tools-coding-agents-install #AI<br/><br/>- Maybe you don&#39;t need GraphQL https://alexandrehtrb.github.io/posts/2026/09/maybe-you-dont-need-graphql/ #GraphQL<br/><br/>- .gitignore everything by default https://packagemain.tech/p/gitignore-everything-by-default<br/><br/>- Discovery of a new OpenAI agent message board collusion.wiki #OpenAI #AI
-https://collusion.wiki/<br/><br/>- <br/><br/><!-- BLOG-POST-LIST:END -->
+https://collusion.wiki/<br/><br/><!-- BLOG-POST-LIST:END -->
