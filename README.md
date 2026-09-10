@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- GPT-6 Astra in code review: Gains, privacy, and cost https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation #AI<br/><br/>- Independent analysis of AI artificialanalysis.ai #AI
+<!-- BLOG-POST-LIST:START -->- Performance Benchmarking: gRPC+Protobuf vs. HTTP+JSON https://packagemain.tech/p/protobuf-grpc-vs-json-http<br/><br/>- GPT-6 Astra in code review: Gains, privacy, and cost https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation #AI<br/><br/>- Independent analysis of AI artificialanalysis.ai #AI
 https://artificialanalysis.ai/<br/><br/>- Advocating for Uptime: The 6 Phases of Change https://devblogs.microsoft.com/azure-sql/schema-change/<br/><br/>- Visual Studio Code 1.137 Released - See What&#39;s New code.visualstudio.com/updates/v1_137 #vscode
-https://code.visualstudio.com/updates/v1_137<br/><br/>- How Figma Uses AI Agents for Security https://www.infoq.com/news/2026/09/figma-security-agents/ #figma #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_137<br/><br/><!-- BLOG-POST-LIST:END -->
