@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- High-performance Database Architecture https://www.youtube.com/watch?v=ONxwjqFjP3A<br/><br/>- Native is now the future of mobile at Shopify shopify.engineering/back-to-native
+<!-- BLOG-POST-LIST:START -->- How to Read Server Monitoring Graphs https://kciter.so/posts/server-monitoring-analysis-guide/en/<br/><br/>- High-performance Database Architecture https://www.youtube.com/watch?v=ONxwjqFjP3A<br/><br/>- Native is now the future of mobile at Shopify shopify.engineering/back-to-native
 https://shopify.engineering/back-to-native<br/><br/>- The Physics of Database Speed: from 300 to 1M transactions per second https://www.youtube.com/watch?v=vOEL_pHFYK0<br/><br/>- OpenAI agents carried out an undisclosed attack on RubyGems www.rubyhack.ai #OpenAI #AI
-https://www.rubyhack.ai/<br/><br/>- Anthropic reveals rogue AI agents hate CAPTCHAs, just like you https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/ #anthropic #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://www.rubyhack.ai/<br/><br/><!-- BLOG-POST-LIST:END -->
