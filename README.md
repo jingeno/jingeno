@@ -9,9 +9,9 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Please consider supporting my daughter in her cause to provide a school in Uganda with more reliable access to clean, sustainable water.
+<!-- BLOG-POST-LIST:START -->- Inside Claude&#39;s Android app: Finding the Internal Settings https://nima-ahmadi.github.io/posts/claude-android-internal-settings/ #anthropic #claude #AI<br/><br/>- Please consider supporting my daughter in her cause to provide a school in Uganda with more reliable access to clean, sustainable water.
 
 ugandanwaterproject.com/flowwell/<br/><br/>- Please consider supporting my daughter in her cause to provide a school in Uganda with more reliable access to clean, sustainable water.
 
 ugandanwaterproject.com/flowwell/
-https://ugandanwaterproject.com/flowwell/<br/><br/>- Refreshed repository pull requests page in public preview https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview/ #github<br/><br/>- The lifecycle of a sharded Postgres query https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query #postgres<br/><br/>- Zero to Agent in 30 Minutes: Build a Supply Chain for Agent Context https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-supply-chain-for-agent-context-with-maxim-salnikov/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://ugandanwaterproject.com/flowwell/<br/><br/>- Refreshed repository pull requests page in public preview https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview/ #github<br/><br/>- The lifecycle of a sharded Postgres query https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query #postgres<br/><br/><!-- BLOG-POST-LIST:END -->
