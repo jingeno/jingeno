@@ -9,9 +9,4 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- A Design Space Exploration of Async/Await https://cel.cs.brown.edu/blog/design-space-async-await/<br/><br/>- Detecting and countering misuse of AI https://www.anthropic.com/threat-intelligence-report-september-2026 #anthropic #claude #AI<br/><br/>- Inside Claude&#39;s Android app: Finding the Internal Settings https://nima-ahmadi.github.io/posts/claude-android-internal-settings/ #anthropic #claude #AI<br/><br/>- Please consider supporting my daughter in her cause to provide a school in Uganda with more reliable access to clean, sustainable water.
-
-ugandanwaterproject.com/flowwell/<br/><br/>- Please consider supporting my daughter in her cause to provide a school in Uganda with more reliable access to clean, sustainable water.
-
-ugandanwaterproject.com/flowwell/
-https://ugandanwaterproject.com/flowwell/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- A Design Space Exploration of Async/Await https://cel.cs.brown.edu/blog/design-space-async-await/<br/><br/>- Detecting and countering misuse of AI https://www.anthropic.com/threat-intelligence-report-september-2026 #anthropic #claude #AI<br/><br/>- Inside Claude&#39;s Android app: Finding the Internal Settings https://nima-ahmadi.github.io/posts/claude-android-internal-settings/ #anthropic #claude #AI<br/><br/><!-- BLOG-POST-LIST:END -->
