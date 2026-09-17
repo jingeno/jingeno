@@ -10,4 +10,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.138 Released code.visualstudio.com/updates/v1_138 #vscode
-https://code.visualstudio.com/updates/v1_138<br/><br/>- Performance Improvements in .NET 11 https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/ #dotnet<br/><br/>- Brownfield Agentic Engineering https://addyo.substack.com/p/brownfield-agentic-engineering #AI<br/><br/>- <br/><br/>- A Design Space Exploration of Async/Await https://cel.cs.brown.edu/blog/design-space-async-await/<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_138<br/><br/>- Performance Improvements in .NET 11 https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/ #dotnet<br/><br/>- Brownfield Agentic Engineering https://addyo.substack.com/p/brownfield-agentic-engineering #AI<br/><br/>- A Design Space Exploration of Async/Await https://cel.cs.brown.edu/blog/design-space-async-await/<br/><br/><!-- BLOG-POST-LIST:END -->
