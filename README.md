@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users performance.dev/chatgpt #OpenAI #ChatGPT #AI
+<!-- BLOG-POST-LIST:START -->- Memory Management, Explained Simply https://www.youtube.com/watch?v=3rez2rDYHHA<br/><br/>- Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users performance.dev/chatgpt #OpenAI #ChatGPT #AI
 https://performance.dev/chatgpt<br/><br/>- Stop alt-tabbing into the wrong Visual Studio https://devblogs.microsoft.com/visualstudio/stop-alt-tabbing-into-the-wrong-visual-studio/ #visualstudio<br/><br/>- Visual Studio Code 1.138 Released code.visualstudio.com/updates/v1_138 #vscode
-https://code.visualstudio.com/updates/v1_138<br/><br/>- Performance Improvements in .NET 11 https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/ #dotnet<br/><br/>- Brownfield Agentic Engineering https://addyo.substack.com/p/brownfield-agentic-engineering #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://code.visualstudio.com/updates/v1_138<br/><br/>- Performance Improvements in .NET 11 https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/ #dotnet<br/><br/><!-- BLOG-POST-LIST:END -->
