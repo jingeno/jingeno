@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Unit tests mark territory more than squash bugs https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html<br/><br/>- <br/><br/>- Claude Code now reads AGENTS.md if there is no Claude.md https://code.claude.com/docs/en/changelog #anthropic #claude #AI<br/><br/>- Memory Management, Explained Simply https://www.youtube.com/watch?v=3rez2rDYHHA<br/><br/>- Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users performance.dev/chatgpt #OpenAI #ChatGPT #AI
+<!-- BLOG-POST-LIST:START -->- Unit tests mark territory more than squash bugs https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html<br/><br/>- Claude Code now reads AGENTS.md if there is no Claude.md https://code.claude.com/docs/en/changelog #anthropic #claude #AI<br/><br/>- Memory Management, Explained Simply https://www.youtube.com/watch?v=3rez2rDYHHA<br/><br/>- Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users performance.dev/chatgpt #OpenAI #ChatGPT #AI
 https://performance.dev/chatgpt<br/><br/><!-- BLOG-POST-LIST:END -->
