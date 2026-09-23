@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- The senior engineer death spiral https://sunilpai.dev/posts/the-senior-engineer-death-spiral/<br/><br/>- Prompts aren’t Real evaluation.club
-https://evaluation.club/<br/><br/>- ChatGPT now knows what you do on other websites via ad collector https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/ #OpenAI #ChatGPT #AI<br/><br/>- Make Code Review Your Default Next Task https://phpdeveloperstv.substack.com/p/make-code-review-your-default-next<br/><br/>- Broken Windows, Abstractions and the Cost of Always Keeping Things Simple https://pgilmartin.substack.com/p/broken-windows-abstractions-and-the<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- AI-generated posters don’t have to be horrible https://john.hartnup.uk/2026/06/07/ai-event-posters.html #AI<br/><br/>- The senior engineer death spiral https://sunilpai.dev/posts/the-senior-engineer-death-spiral/<br/><br/>- Prompts aren’t Real evaluation.club
+https://evaluation.club/<br/><br/>- ChatGPT now knows what you do on other websites via ad collector https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/ #OpenAI #ChatGPT #AI<br/><br/>- Make Code Review Your Default Next Task https://phpdeveloperstv.substack.com/p/make-code-review-your-default-next<br/><br/><!-- BLOG-POST-LIST:END -->
