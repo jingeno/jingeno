@@ -9,5 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- We ported the original Doom to SQL cedardb.com/blog/sqldoom/
-https://cedardb.com/blog/sqldoom/<br/><br/>- Partitioning in MySQL: How we cut peak database load by more than 80% https://ipsator.com/blog/mysql-table-partitioning #MySQL<br/><br/>- MCP Is Not Just Another API Standard https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/ #MCP #AI<br/><br/>- Jev in 25 lines of Python https://www.nobodywho.ai/posts/jev-in-25-lines/ #jev #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Revealing the details of how OpenAI agents hacked Hugging Face swarmtraces.org #OpenAI #AI
+https://swarmtraces.org/<br/><br/>- We ported the original Doom to SQL cedardb.com/blog/sqldoom/
+https://cedardb.com/blog/sqldoom/<br/><br/>- Partitioning in MySQL: How we cut peak database load by more than 80% https://ipsator.com/blog/mysql-table-partitioning #MySQL<br/><br/>- <br/><br/>- MCP Is Not Just Another API Standard https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/ #MCP #AI<br/><br/><!-- BLOG-POST-LIST:END -->
