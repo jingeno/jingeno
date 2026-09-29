@@ -9,6 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Revealing the details of how OpenAI agents hacked Hugging Face swarmtraces.org #OpenAI #AI
+<!-- BLOG-POST-LIST:START -->- Will TypeSafe’s Jev Change How We Build AI Applications? https://www.oreilly.com/radar/will-typesafes-jev-change-how-we-build-ai-applications/ #jev #AI<br/><br/>- Human Judgment Doesn’t Leave the Software Factory, It Relocates https://www.oreilly.com/radar/human-judgment-doesnt-leave-the-software-factory-it-relocates/<br/><br/>- Getting the most out of Opus 5.5 in Claude and Claude Code https://claude.dev/blog/getting-the-most-out-of-opus-5-5/ #anthropic #claude #AI<br/><br/>- Revealing the details of how OpenAI agents hacked Hugging Face swarmtraces.org #OpenAI #AI
 https://swarmtraces.org/<br/><br/>- We ported the original Doom to SQL cedardb.com/blog/sqldoom/
-https://cedardb.com/blog/sqldoom/<br/><br/>- Partitioning in MySQL: How we cut peak database load by more than 80% https://ipsator.com/blog/mysql-table-partitioning #MySQL<br/><br/>- MCP Is Not Just Another API Standard https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/ #MCP #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+https://cedardb.com/blog/sqldoom/<br/><br/><!-- BLOG-POST-LIST:END -->
