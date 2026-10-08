@@ -9,5 +9,6 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Visual Studio Code 1.141 Released - See What&#39;s New code.visualstudio.com/updates/v1_141 #vscode
-https://code.visualstudio.com/updates/v1_141<br/><br/>- Getting ready for 2026 results: A look back on Developer Survey findings https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/ #stackoverflow<br/><br/>- What good is a best-effort exclusive lock, anyway? https://gaultier.github.io/blog/what_good_is_a_best_effort_exclusive_lock_anyway.html<br/><br/>- Go 1.27&#39;s JSON v2 is already under your encoding/json https://importstatic.com/go/go-json-v2-migration #json #golang<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Memory Management, Explained Simply &lpar;Part 2&rpar; https://www.youtube.com/watch?v=7mYWbTgEGb8<br/><br/>- RIP Margaret Hamilton https://x.com/MIT/status/2107945104321208752<br/><br/>- Tuning a Server for Benchmarking https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/<br/><br/>- StackOverflow Developer Survey Results 2026 survey.stackoverflow.co/2026 #stackoverflow
+https://survey.stackoverflow.co/2026<br/><br/>- Visual Studio Code 1.141 Released - See What&#39;s New code.visualstudio.com/updates/v1_141 #vscode
+https://code.visualstudio.com/updates/v1_141<br/><br/><!-- BLOG-POST-LIST:END -->
