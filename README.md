@@ -10,4 +10,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- How big is a #Git commit? https://ratfactor.com/cards/git-commit-size<br/><br/>- State of Devs 2026 2026.stateofdevs.com/en-US/
-https://2026.stateofdevs.com/en-US/<br/><br/>- Anti-Patterns in Software Blogging https://refactoringenglish.com/blog/anti-patterns-software-blogging/<br/><br/>- Adding Go&#39;s defer to the TypeScript Compiler https://healeycodes.com/adding-defer-to-the-typescript-compiler #go #golang #typescript #typescriptlang<br/><br/><!-- BLOG-POST-LIST:END -->
+https://2026.stateofdevs.com/en-US/<br/><br/>- Anti-Patterns in Software Blogging https://refactoringenglish.com/blog/anti-patterns-software-blogging/<br/><br/>- <br/><br/>- Adding Go&#39;s defer to the TypeScript Compiler https://healeycodes.com/adding-defer-to-the-typescript-compiler #go #golang #typescript #typescriptlang<br/><br/><!-- BLOG-POST-LIST:END -->
