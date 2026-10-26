@@ -9,4 +9,4 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Make yourself replaceable https://maroun-baydoun.com/blog/make-yourself-replaceable/<br/><br/>- How to Make Things, and Why https://www.youtube.com/watch?v=7yeH1DqK984<br/><br/>- #Docker is weird https://codeandcake.dev/posts/2026-10-22-docker-is-weird<br/><br/>- AI Changed How We Code. It Hasn’t Changed How We Work Together. https://www.oreilly.com/radar/ai-changed-how-we-code-it-hasnt-changed-how-we-work-together/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Make yourself replaceable https://maroun-baydoun.com/blog/make-yourself-replaceable/<br/><br/>- <br/><br/>- How to Make Things, and Why https://www.youtube.com/watch?v=7yeH1DqK984<br/><br/>- #Docker is weird https://codeandcake.dev/posts/2026-10-22-docker-is-weird<br/><br/>- AI Changed How We Code. It Hasn’t Changed How We Work Together. https://www.oreilly.com/radar/ai-changed-how-we-code-it-hasnt-changed-how-we-work-together/ #AI<br/><br/><!-- BLOG-POST-LIST:END -->
