@@ -9,4 +9,4 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- No Source Code? No Problem! https://queue.acm.org/doi/10.1145/945131.945155<br/><br/>- Concerning behavior from a popular open-weight AI model https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model #AI<br/><br/>- Make yourself replaceable https://maroun-baydoun.com/blog/make-yourself-replaceable/<br/><br/>- <br/><br/>- How to Make Things, and Why https://www.youtube.com/watch?v=7yeH1DqK984<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- No Source Code? No Problem! https://queue.acm.org/doi/10.1145/945131.945155<br/><br/>- Concerning behavior from a popular open-weight AI model https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model #AI<br/><br/>- Make yourself replaceable https://maroun-baydoun.com/blog/make-yourself-replaceable/<br/><br/>- How to Make Things, and Why https://www.youtube.com/watch?v=7yeH1DqK984<br/><br/><!-- BLOG-POST-LIST:END -->
