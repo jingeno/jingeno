@@ -10,4 +10,4 @@
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
 <!-- BLOG-POST-LIST:START -->- MCP Explained mcp-explained.com #MCP #AI
-https://mcp-explained.com/<br/><br/>- Git, From the Inside https://software-atlas.haiduc0147.dev/t/git-internals #git<br/><br/>- A Maintainer&#39;s Advice on Contributing to Open Source in 2026 https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026<br/><br/>- <br/><br/>- Database Indexing Isn&#39;t Magic. Understand It From Scratch https://sushantdhiman.dev/blog/database-index-from-scratch/<br/><br/><!-- BLOG-POST-LIST:END -->
+https://mcp-explained.com/<br/><br/>- Git, From the Inside https://software-atlas.haiduc0147.dev/t/git-internals #git<br/><br/>- A Maintainer&#39;s Advice on Contributing to Open Source in 2026 https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026<br/><br/>- Database Indexing Isn&#39;t Magic. Understand It From Scratch https://sushantdhiman.dev/blog/database-index-from-scratch/<br/><br/><!-- BLOG-POST-LIST:END -->
