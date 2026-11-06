@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- MCP Explained mcp-explained.com #MCP #AI
-https://mcp-explained.com/<br/><br/>- Git, From the Inside https://software-atlas.haiduc0147.dev/t/git-internals #git<br/><br/>- A Maintainer&#39;s Advice on Contributing to Open Source in 2026 https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026<br/><br/>- Database Indexing Isn&#39;t Magic. Understand It From Scratch https://sushantdhiman.dev/blog/database-index-from-scratch/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- Can GROUP BY still be optimized after all these years? https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/ #sql<br/><br/>- System Design - Apache Kafka Basics https://javarevisited.substack.com/p/system-design-apache-kafka-basics #kafka<br/><br/>- Scaling Git at OpenAI https://openai.com/index/scaling-git-at-openai/ #git #OpenAI<br/><br/>- MCP Explained mcp-explained.com #MCP #AI
+https://mcp-explained.com/<br/><br/>- Git, From the Inside https://software-atlas.haiduc0147.dev/t/git-internals #git<br/><br/><!-- BLOG-POST-LIST:END -->
