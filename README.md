@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Delivering Skills in NuGet packages https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/ #nuget #dotnet #AI<br/><br/>- Jepsen on ParticleDB: &quot;We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature&quot; https://jepsen.io/analyses/particledb-1.1.4 #ParticleDB<br/><br/>- Aspire for .NET Developers www.dotnetdevs.io/guides/aspire/ #aspire #dotnet
-https://www.dotnetdevs.io/guides/aspire/<br/><br/>- Can GROUP BY still be optimized after all these years? https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/ #sql<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- The New Knowledge Artifacts of the AI Economy https://www.oreilly.com/radar/the-new-knowledge-artifacts-of-the-ai-economy/ #AI<br/><br/>- Delivering Skills in NuGet packages https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/ #nuget #dotnet #AI<br/><br/>- <br/><br/>- Jepsen on ParticleDB: &quot;We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature&quot; https://jepsen.io/analyses/particledb-1.1.4 #ParticleDB<br/><br/>- Aspire for .NET Developers www.dotnetdevs.io/guides/aspire/ #aspire #dotnet
+https://www.dotnetdevs.io/guides/aspire/<br/><br/><!-- BLOG-POST-LIST:END -->
