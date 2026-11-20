@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Satya Nadella says Claude Code caught Microsoft off guard and the IDE faded https://thenextweb.com/news/satya-nadella-claude-code-ide-pragmatic-engineer #AI<br/><br/>- PostgreSQL 19 Released https://www.postgresql.org/about/news/postgresql-19-released-3449/ #PostgreSQL #Postgres<br/><br/>- Do Repeat Yourself https://arcentry.com/blog/do-repeat-yourself/<br/><br/>- Formatting an entire 25 million line codebase overnight: the rubyfmt story https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story<br/><br/>- Carnegie Mellon is putting computer science courses on YouTube for free www.cs.cmu.edu/learn/
-https://www.cs.cmu.edu/learn/<br/><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- <br/><br/>- Visual Studio Code 1.147 Released code.visualstudio.com/updates/v1_147 #vscode
+https://code.visualstudio.com/updates/v1_147<br/><br/>- C# File-based apps turned up to 11! https://www.youtube.com/watch?v=Yvn7liNioto #csharp #dotnet<br/><br/>- Satya Nadella says Claude Code caught Microsoft off guard and the IDE faded https://thenextweb.com/news/satya-nadella-claude-code-ide-pragmatic-engineer #AI<br/><br/>- PostgreSQL 19 Released https://www.postgresql.org/about/news/postgresql-19-released-3449/ #PostgreSQL #Postgres<br/><br/><!-- BLOG-POST-LIST:END -->
