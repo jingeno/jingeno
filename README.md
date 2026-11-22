@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Inventing Your Own Math As A Computer Programmer https://leetarxiv.substack.com/p/inventing-your-own-math-as-a-computer-programmer<br/><br/>- Slack’s Migration to a Cellular Architecture https://slack.engineering/slacks-migration-to-a-cellular-architecture/<br/><br/>- <br/><br/>- Visual Studio Code 1.147 Released code.visualstudio.com/updates/v1_147 #vscode
+<!-- BLOG-POST-LIST:START -->- Inventing Your Own Math As A Computer Programmer https://leetarxiv.substack.com/p/inventing-your-own-math-as-a-computer-programmer<br/><br/>- Slack’s Migration to a Cellular Architecture https://slack.engineering/slacks-migration-to-a-cellular-architecture/<br/><br/>- Visual Studio Code 1.147 Released code.visualstudio.com/updates/v1_147 #vscode
 https://code.visualstudio.com/updates/v1_147<br/><br/>- C# File-based apps turned up to 11! https://www.youtube.com/watch?v=Yvn7liNioto #csharp #dotnet<br/><br/><!-- BLOG-POST-LIST:END -->
