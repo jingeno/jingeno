@@ -9,5 +9,5 @@
 
 <br></br>
 <p><a href="https://x.com/JoeIngeno"><img src="https://img.shields.io/twitter/follow/JoeIngeno?label=%20@JoeIngeno's%20Latest%20Posts&style=social" alt="X"></a></p>
-<!-- BLOG-POST-LIST:START -->- Schrödinger&#39;s Pull Requests: The 1,553 Next.js PRs With No Review https://oxynote.io/blog/open-source-projects-2026<br/><br/>- A short history of read streams in Postgres frn.sh/postgres-io/ #PostgreSQL #postgres
+<!-- BLOG-POST-LIST:START -->- Schrödinger&#39;s Pull Requests: The 1,553 Next.js PRs With No Review https://oxynote.io/blog/open-source-projects-2026<br/><br/>- <br/><br/>- A short history of read streams in Postgres frn.sh/postgres-io/ #PostgreSQL #postgres
 https://frn.sh/postgres-io/<br/><br/>- How Redis was reporting pending messages that were already deleted from its stream https://octri.dev/blog/how-redis-was-reporting-pending-messages-that-were-already-deleted-from-its-stream #redls<br/><br/>- AWS Open-Sources Emulator for Local Testing of 200+ Services by Coding Agents https://www.infoq.com/news/2026/11/aws-emulator-agents/ #AWS<br/><br/><!-- BLOG-POST-LIST:END -->
